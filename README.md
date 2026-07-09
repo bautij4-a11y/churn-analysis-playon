@@ -91,8 +91,3 @@ cd dashboard
 python build_dashboard.py
 ```
 
-## Próximos pasos
-
-- Diseñar el sistema de alertas tempranas propuesto (caída de uso + 2+ llamados a
-  soporte) para activar campañas de retención automáticas.
-- Publicar el proyecto en GitHub y compartir el post de LinkedIn (`linkedin_post.md`).
