@@ -1,0 +1,1201 @@
+ID_Cliente,Nombre,Fecha_Alta,Edad,Ciudad,Metodo_Pago
+1,Nicolás López,2025-04-01,36,Buenos Aires,Tarjeta de Débito
+2,Emma Martínez,2025-10-01,30,Córdoba,Tarjeta de Débito
+3,Agustín Ramírez,2025-05-01,38,Buenos Aires,Tarjeta de Crédito
+4,Emma Benítez,2025-06-01,47,Neuquén,Tarjeta de Crédito
+5,Ignacio Medina,2025-03-01,29,Mar del Plata,Tarjeta de Crédito
+6,Lucía González,2025-01-01,29,Rosario,Tarjeta de Débito
+7,Santiago Martínez,2025-01-01,47,Mendoza,Transferencia Bancaria
+8,Valentina Fernández,2025-01-01,39,Mar del Plata,Tarjeta de Crédito
+9,Delfina Romero,2025-08-01,27,Buenos Aires,Tarjeta de Débito
+10,Guadalupe Ruiz,2024-12-01,37,Córdoba,Tarjeta de Débito
+11,Agustín Gómez,2025-05-01,27,Córdoba,Tarjeta de Crédito
+12,Franco Díaz,2025-09-01,27,Córdoba,Mercado Pago
+13,Bautista Romero,2024-12-01,34,Salta,Tarjeta de Débito
+14,Martina Álvarez,2025-04-01,16,San Miguel de Tucumán,Tarjeta de Crédito
+15,Ignacio Fernández,2025-04-01,16,Neuquén,Tarjeta de Débito
+16,Martina Flores,2025-05-01,26,Mar del Plata,Tarjeta de Crédito
+17,Victoria Torres,2025-11-01,21,Buenos Aires,Tarjeta de Crédito
+18,Lucía Torres,2025-05-01,35,Mar del Plata,Tarjeta de Crédito
+19,Guadalupe Herrera,2024-08-01,22,San Miguel de Tucumán,Tarjeta de Crédito
+20,Bautista Flores,2025-04-01,17,Rosario,Tarjeta de Crédito
+21,Pilar Medina,2024-10-01,46,Santa Fe,Tarjeta de Crédito
+22,Dante Herrera,2025-08-01,29,Mar del Plata,Tarjeta de Crédito
+23,Tomás Acosta,2025-09-01,32,Córdoba,Mercado Pago
+24,Benjamín Pérez,2024-12-01,17,Mar del Plata,Tarjeta de Débito
+25,Bautista Suárez,2025-12-01,26,Salta,Tarjeta de Débito
+26,Victoria López,2025-01-01,33,Santa Fe,Mercado Pago
+27,Valentina Díaz,2025-12-01,20,Mar del Plata,Tarjeta de Crédito
+28,Pilar Romero,2024-07-01,35,Santa Fe,Mercado Pago
+29,Guadalupe López,2024-07-01,25,La Plata,Mercado Pago
+30,Delfina Gómez,2025-07-01,29,Rosario,Tarjeta de Crédito
+31,Renata Benítez,2024-08-01,25,Buenos Aires,Tarjeta de Débito
+32,Mateo López,2025-02-01,50,San Miguel de Tucumán,Mercado Pago
+33,Emma Rodríguez,2025-10-01,31,Mendoza,Mercado Pago
+34,Lucas Acosta,2025-08-01,21,Córdoba,Transferencia Bancaria
+35,Benjamín Acosta,2024-07-01,40,Santa Fe,Tarjeta de Crédito
+36,Antonella Suárez,2025-06-01,19,Mar del Plata,Transferencia Bancaria
+37,Ignacio Díaz,2024-12-01,34,Mar del Plata,Transferencia Bancaria
+38,Facundo Benítez,2025-05-01,16,Salta,Tarjeta de Crédito
+39,Lucas Torres,2025-05-01,18,Buenos Aires,Tarjeta de Débito
+40,Agustín Sánchez,2025-11-01,33,Buenos Aires,Tarjeta de Crédito
+41,Emma Fernández,2025-10-01,39,Buenos Aires,Mercado Pago
+42,Tomás Sánchez,2025-05-01,33,La Plata,Tarjeta de Débito
+43,Renata Martínez,2025-04-01,30,Neuquén,Tarjeta de Débito
+44,Lucía Acosta,2025-09-01,28,Mar del Plata,Tarjeta de Crédito
+45,Victoria Ramírez,2024-09-01,17,San Miguel de Tucumán,Tarjeta de Crédito
+46,Antonella Rodríguez,2025-01-01,24,Córdoba,Tarjeta de Crédito
+47,Lucía López,2024-09-01,27,Mendoza,Tarjeta de Crédito
+48,Benjamín Ramírez,2025-04-01,42,Rosario,Tarjeta de Crédito
+49,Antonella Fernández,2025-09-01,35,Salta,Mercado Pago
+50,Sofía Medina,2025-05-01,16,Buenos Aires,Transferencia Bancaria
+51,Martina Ramírez,2024-11-01,35,Salta,Tarjeta de Débito
+52,Dante Rodríguez,2024-11-01,28,Rosario,Tarjeta de Crédito
+53,Santiago Flores,2024-08-01,25,La Plata,Tarjeta de Crédito
+54,Benjamín Gómez,2025-11-01,38,La Plata,Tarjeta de Crédito
+55,Agustín Medina,2025-11-01,42,Buenos Aires,Tarjeta de Débito
+56,Sofía Herrera,2025-07-01,41,Salta,Tarjeta de Débito
+57,Sofía Benítez,2025-10-01,23,Córdoba,Mercado Pago
+58,Delfina Fernández,2025-04-01,28,Mendoza,Tarjeta de Crédito
+59,Agustín Suárez,2024-10-01,35,Buenos Aires,Tarjeta de Débito
+60,Victoria Herrera,2025-04-01,41,Neuquén,Tarjeta de Débito
+61,Thiago Torres,2025-08-01,27,Mendoza,Tarjeta de Crédito
+62,Victoria Díaz,2025-10-01,30,Salta,Tarjeta de Crédito
+63,Mateo Flores,2025-09-01,20,Neuquén,Transferencia Bancaria
+64,Lucas Medina,2025-08-01,20,Mendoza,Tarjeta de Débito
+65,Guadalupe Álvarez,2024-12-01,40,Córdoba,Mercado Pago
+66,Isabella Pérez,2025-02-01,45,Salta,Mercado Pago
+67,Delfina Benítez,2025-02-01,31,Buenos Aires,Tarjeta de Débito
+68,Guadalupe López,2025-09-01,42,Rosario,Tarjeta de Crédito
+69,Pilar Medina,2025-05-01,35,Rosario,Tarjeta de Crédito
+70,Ignacio Torres,2025-04-01,25,Mendoza,Tarjeta de Débito
+71,Tomás Acosta,2025-11-01,35,La Plata,Mercado Pago
+72,Lucas Ramírez,2025-01-01,47,La Plata,Tarjeta de Crédito
+73,Franco Martínez,2024-10-01,31,La Plata,Tarjeta de Crédito
+74,Renata Ramírez,2025-10-01,47,Santa Fe,Tarjeta de Crédito
+75,Dante Martínez,2024-12-01,16,Santa Fe,Tarjeta de Crédito
+76,Agustín Medina,2025-11-01,40,Rosario,Tarjeta de Crédito
+77,Isabella Álvarez,2025-05-01,32,Buenos Aires,Mercado Pago
+78,Victoria Sánchez,2024-11-01,29,Córdoba,Tarjeta de Crédito
+79,Delfina Martínez,2025-07-01,32,Mendoza,Mercado Pago
+80,Dante Ramírez,2025-01-01,16,Buenos Aires,Tarjeta de Crédito
+81,Lucía Ramírez,2025-09-01,29,Mendoza,Tarjeta de Crédito
+82,Bautista Rodríguez,2024-09-01,35,Salta,Tarjeta de Crédito
+83,Catalina Díaz,2025-06-01,46,Mendoza,Tarjeta de Crédito
+84,Bautista Torres,2025-03-01,26,La Plata,Mercado Pago
+85,Catalina Benítez,2025-01-01,23,Mar del Plata,Tarjeta de Débito
+86,Mateo López,2025-04-01,26,La Plata,Tarjeta de Crédito
+87,Sofía López,2025-02-01,41,Neuquén,Tarjeta de Crédito
+88,Mía Suárez,2025-06-01,35,Santa Fe,Tarjeta de Crédito
+89,Santiago Rodríguez,2025-06-01,26,Mar del Plata,Tarjeta de Crédito
+90,Catalina Ramírez,2025-01-01,37,Córdoba,Mercado Pago
+91,Delfina Torres,2025-02-01,32,Córdoba,Tarjeta de Débito
+92,Tomás Díaz,2025-03-01,41,Mar del Plata,Tarjeta de Crédito
+93,Renata Martínez,2024-12-01,24,Mendoza,Tarjeta de Crédito
+94,Victoria Pérez,2024-11-01,28,Neuquén,Tarjeta de Débito
+95,Renata González,2024-10-01,28,La Plata,Tarjeta de Crédito
+96,Lucía Herrera,2024-09-01,17,Neuquén,Tarjeta de Débito
+97,Facundo Flores,2025-07-01,34,Mendoza,Tarjeta de Débito
+98,Victoria Fernández,2025-01-01,34,La Plata,Tarjeta de Débito
+99,Lucas Sánchez,2025-06-01,32,La Plata,Tarjeta de Crédito
+100,Benjamín González,2024-09-01,29,Buenos Aires,Tarjeta de Crédito
+101,Delfina Fernández,2025-06-01,17,Salta,Tarjeta de Crédito
+102,Ignacio Ruiz,2025-08-01,27,Salta,Tarjeta de Crédito
+103,Nicolás González,2025-05-01,28,Córdoba,Mercado Pago
+104,Martina Benítez,2025-04-01,23,Salta,Tarjeta de Crédito
+105,Guadalupe López,2024-09-01,30,Salta,Tarjeta de Crédito
+106,Victoria Benítez,2024-10-01,36,Santa Fe,Tarjeta de Débito
+107,Delfina Benítez,2024-10-01,50,Mar del Plata,Mercado Pago
+108,Dante Pérez,2025-04-01,33,Salta,Tarjeta de Débito
+109,Gael Romero,2025-05-01,34,Santa Fe,Tarjeta de Débito
+110,Santiago Flores,2025-05-01,31,Córdoba,Tarjeta de Débito
+111,Santiago Torres,2025-10-01,16,San Miguel de Tucumán,Mercado Pago
+112,Benjamín Martínez,2025-07-01,31,Mendoza,Tarjeta de Crédito
+113,Ignacio Gómez,2025-01-01,32,Córdoba,Tarjeta de Crédito
+114,Renata Flores,2024-10-01,56,Mar del Plata,Tarjeta de Crédito
+115,Bautista Herrera,2024-12-01,30,Buenos Aires,Mercado Pago
+116,Julieta González,2024-11-01,35,San Miguel de Tucumán,Tarjeta de Crédito
+117,Antonella Ramírez,2025-05-01,31,Santa Fe,Tarjeta de Débito
+118,Julieta Sánchez,2025-12-01,20,La Plata,Tarjeta de Crédito
+119,Bautista Torres,2024-09-01,43,Mar del Plata,Tarjeta de Débito
+120,Guadalupe Martínez,2024-11-01,39,Neuquén,Tarjeta de Débito
+121,Agustín Herrera,2024-10-01,39,Buenos Aires,Tarjeta de Crédito
+122,Benjamín Flores,2024-12-01,22,Rosario,Tarjeta de Crédito
+123,Joaquín Gómez,2024-12-01,46,Salta,Tarjeta de Crédito
+124,Santiago Ramírez,2024-09-01,17,La Plata,Mercado Pago
+125,Mateo Medina,2025-01-01,37,Buenos Aires,Transferencia Bancaria
+126,Emma Fernández,2025-04-01,53,Buenos Aires,Mercado Pago
+127,Thiago González,2025-08-01,22,Neuquén,Tarjeta de Crédito
+128,Julieta López,2024-09-01,26,Neuquén,Mercado Pago
+129,Ignacio Romero,2025-09-01,32,San Miguel de Tucumán,Tarjeta de Crédito
+130,Franco Pérez,2025-12-01,26,La Plata,Tarjeta de Crédito
+131,Guadalupe Díaz,2024-12-01,16,Neuquén,Tarjeta de Débito
+132,Bautista Gómez,2025-04-01,32,Córdoba,Tarjeta de Débito
+133,Valentina Díaz,2025-11-01,21,Neuquén,Mercado Pago
+134,Catalina Medina,2025-10-01,36,Mar del Plata,Tarjeta de Débito
+135,Tomás Torres,2024-08-01,22,Buenos Aires,Mercado Pago
+136,Valentina Ramírez,2024-09-01,47,San Miguel de Tucumán,Tarjeta de Débito
+137,Ignacio Martínez,2024-07-01,24,Mar del Plata,Tarjeta de Crédito
+138,Nicolás Romero,2024-08-01,28,Neuquén,Mercado Pago
+139,Facundo Ramírez,2025-04-01,40,Neuquén,Tarjeta de Crédito
+140,Gael Fernández,2025-04-01,19,La Plata,Mercado Pago
+141,Franco Flores,2024-12-01,34,Neuquén,Tarjeta de Débito
+142,Joaquín González,2025-06-01,45,Salta,Mercado Pago
+143,Julieta Gómez,2025-01-01,16,San Miguel de Tucumán,Mercado Pago
+144,Santiago Suárez,2024-07-01,33,La Plata,Tarjeta de Débito
+145,Thiago Fernández,2024-08-01,34,Mendoza,Tarjeta de Débito
+146,Renata Sánchez,2024-08-01,39,Salta,Tarjeta de Débito
+147,Facundo González,2024-11-01,19,Córdoba,Tarjeta de Crédito
+148,Ignacio Sánchez,2024-12-01,18,La Plata,Tarjeta de Débito
+149,Julieta Medina,2025-01-01,37,Santa Fe,Tarjeta de Crédito
+150,Catalina Flores,2025-05-01,34,La Plata,Tarjeta de Crédito
+151,Valentina Gómez,2025-06-01,34,San Miguel de Tucumán,Tarjeta de Crédito
+152,Thiago Gómez,2024-07-01,35,Salta,Tarjeta de Crédito
+153,Delfina Díaz,2025-03-01,25,Córdoba,Mercado Pago
+154,Emma Álvarez,2025-08-01,34,Rosario,Tarjeta de Crédito
+155,Santiago Rodríguez,2025-08-01,34,Buenos Aires,Tarjeta de Débito
+156,Nicolás Acosta,2025-03-01,24,Córdoba,Mercado Pago
+157,Julieta Acosta,2025-11-01,50,Salta,Tarjeta de Crédito
+158,Santiago Acosta,2024-11-01,36,Córdoba,Mercado Pago
+159,Julieta Fernández,2025-11-01,20,Neuquén,Tarjeta de Débito
+160,Benjamín Martínez,2025-10-01,38,Neuquén,Mercado Pago
+161,Emma López,2025-05-01,22,Santa Fe,Mercado Pago
+162,Franco Benítez,2024-10-01,39,Mar del Plata,Tarjeta de Débito
+163,Isabella Herrera,2025-10-01,43,Mar del Plata,Tarjeta de Crédito
+164,Delfina López,2025-04-01,23,Mendoza,Tarjeta de Débito
+165,Victoria Fernández,2025-10-01,41,Rosario,Tarjeta de Crédito
+166,Martina González,2024-09-01,36,Mar del Plata,Tarjeta de Débito
+167,Isabella Rodríguez,2025-03-01,40,Mendoza,Tarjeta de Crédito
+168,Ignacio Flores,2025-04-01,50,Córdoba,Tarjeta de Débito
+169,Lucía Herrera,2025-05-01,29,Mendoza,Tarjeta de Crédito
+170,Nicolás Martínez,2025-10-01,24,La Plata,Mercado Pago
+171,Sofía Pérez,2025-03-01,23,La Plata,Tarjeta de Débito
+172,Facundo López,2024-11-01,23,Salta,Tarjeta de Débito
+173,Santiago Benítez,2025-10-01,31,Santa Fe,Tarjeta de Débito
+174,Delfina Rodríguez,2025-04-01,35,Mar del Plata,Tarjeta de Débito
+175,Mateo Fernández,2025-12-01,34,Mendoza,Transferencia Bancaria
+176,Franco Romero,2025-07-01,40,Neuquén,Tarjeta de Crédito
+177,Julieta Benítez,2025-06-01,32,Salta,Mercado Pago
+178,Agustín Ramírez,2024-09-01,46,Salta,Transferencia Bancaria
+179,Catalina Ramírez,2025-09-01,29,San Miguel de Tucumán,Tarjeta de Crédito
+180,Antonella Pérez,2024-08-01,59,San Miguel de Tucumán,Tarjeta de Crédito
+181,Isabella Ruiz,2025-10-01,38,Santa Fe,Tarjeta de Crédito
+182,Joaquín Romero,2024-11-01,23,San Miguel de Tucumán,Tarjeta de Crédito
+183,Antonella Benítez,2024-09-01,21,Buenos Aires,Tarjeta de Débito
+184,Mía Rodríguez,2024-08-01,36,Mendoza,Tarjeta de Débito
+185,Nicolás Flores,2025-08-01,29,Buenos Aires,Tarjeta de Crédito
+186,Guadalupe Díaz,2024-08-01,39,Salta,Mercado Pago
+187,Valentina González,2025-07-01,36,Neuquén,Mercado Pago
+188,Isabella Medina,2025-09-01,31,Buenos Aires,Tarjeta de Débito
+189,Emma López,2025-07-01,23,Salta,Mercado Pago
+190,Julieta Díaz,2024-11-01,16,Santa Fe,Tarjeta de Débito
+191,Gael Acosta,2025-08-01,27,Salta,Tarjeta de Crédito
+192,Bautista Gómez,2025-08-01,40,Neuquén,Tarjeta de Débito
+193,Antonella Fernández,2024-11-01,34,La Plata,Mercado Pago
+194,Joaquín Benítez,2025-03-01,19,La Plata,Mercado Pago
+195,Pilar Díaz,2024-08-01,33,Neuquén,Tarjeta de Débito
+196,Antonella Martínez,2025-01-01,35,Salta,Tarjeta de Débito
+197,Joaquín Medina,2025-02-01,23,Santa Fe,Tarjeta de Crédito
+198,Antonella Gómez,2025-05-01,33,Mendoza,Tarjeta de Débito
+199,Antonella Ramírez,2024-09-01,32,Buenos Aires,Tarjeta de Crédito
+200,Ignacio Ruiz,2025-07-01,20,Mar del Plata,Transferencia Bancaria
+201,Julieta Rodríguez,2025-01-01,35,Rosario,Tarjeta de Débito
+202,Antonella López,2024-09-01,37,Salta,Tarjeta de Crédito
+203,Mateo Martínez,2025-07-01,42,Mar del Plata,Mercado Pago
+204,Lucas Acosta,2024-11-01,42,La Plata,Tarjeta de Crédito
+205,Nicolás Fernández,2024-12-01,18,San Miguel de Tucumán,Mercado Pago
+206,Joaquín Acosta,2025-10-01,22,Santa Fe,Tarjeta de Crédito
+207,Emma Díaz,2024-10-01,37,Mendoza,Tarjeta de Débito
+208,Valentina López,2025-02-01,37,Salta,Tarjeta de Crédito
+209,Dante González,2025-11-01,37,Buenos Aires,Tarjeta de Crédito
+210,Isabella Álvarez,2025-04-01,70,San Miguel de Tucumán,Tarjeta de Crédito
+211,Tomás Ramírez,2025-06-01,37,Neuquén,Tarjeta de Débito
+212,Martina Pérez,2024-12-01,43,Córdoba,Tarjeta de Débito
+213,Delfina Sánchez,2025-08-01,41,Salta,Mercado Pago
+214,Emma Flores,2025-12-01,38,La Plata,Tarjeta de Débito
+215,Dante Flores,2025-07-01,28,La Plata,Tarjeta de Débito
+216,Lucas Flores,2025-02-01,39,San Miguel de Tucumán,Transferencia Bancaria
+217,Nicolás Ramírez,2025-02-01,24,La Plata,Tarjeta de Débito
+218,Thiago Ruiz,2024-12-01,29,Salta,Tarjeta de Crédito
+219,Agustín Álvarez,2025-03-01,27,Neuquén,Tarjeta de Crédito
+220,Mateo Ruiz,2025-11-01,32,La Plata,Tarjeta de Crédito
+221,Guadalupe Suárez,2025-03-01,55,Salta,Mercado Pago
+222,Franco Sánchez,2025-05-01,16,Neuquén,Mercado Pago
+223,Nicolás Gómez,2025-08-01,38,Neuquén,Tarjeta de Crédito
+224,Nicolás López,2024-10-01,16,Buenos Aires,Tarjeta de Crédito
+225,Sofía Herrera,2025-09-01,27,San Miguel de Tucumán,Tarjeta de Débito
+226,Guadalupe Díaz,2025-07-01,42,San Miguel de Tucumán,Tarjeta de Débito
+227,Thiago Martínez,2024-12-01,32,Santa Fe,Mercado Pago
+228,Tomás Benítez,2025-04-01,21,La Plata,Mercado Pago
+229,Guadalupe Acosta,2025-01-01,24,La Plata,Tarjeta de Débito
+230,Lucía López,2025-08-01,38,Salta,Transferencia Bancaria
+231,Franco Sánchez,2024-12-01,24,Mar del Plata,Transferencia Bancaria
+232,Lucas Ruiz,2025-08-01,34,Buenos Aires,Tarjeta de Crédito
+233,Facundo Álvarez,2024-12-01,32,La Plata,Tarjeta de Débito
+234,Valentina Sánchez,2025-01-01,25,Salta,Tarjeta de Crédito
+235,Guadalupe Suárez,2024-09-01,53,Mendoza,Tarjeta de Débito
+236,Guadalupe Díaz,2025-11-01,38,Mar del Plata,Tarjeta de Crédito
+237,Sofía Díaz,2025-05-01,16,Salta,Tarjeta de Crédito
+238,Dante Medina,2024-12-01,33,Rosario,Tarjeta de Crédito
+239,Victoria Medina,2025-07-01,25,Mar del Plata,Tarjeta de Débito
+240,Dante Ramírez,2024-11-01,40,Córdoba,Mercado Pago
+241,Santiago Rodríguez,2024-10-01,24,San Miguel de Tucumán,Tarjeta de Crédito
+242,Emma Álvarez,2024-12-01,30,Córdoba,Transferencia Bancaria
+243,Renata Álvarez,2025-06-01,37,Buenos Aires,Tarjeta de Crédito
+244,Valentina Flores,2025-12-01,40,Córdoba,Tarjeta de Débito
+245,Sofía Torres,2025-06-01,19,Mendoza,Transferencia Bancaria
+246,Lucas Medina,2025-05-01,28,Mendoza,Tarjeta de Débito
+247,Joaquín Martínez,2025-08-01,27,Neuquén,Tarjeta de Crédito
+248,Benjamín Medina,2025-09-01,25,La Plata,Mercado Pago
+249,Victoria González,2025-05-01,49,Rosario,Tarjeta de Crédito
+250,Agustín Torres,2025-11-01,36,Buenos Aires,Tarjeta de Crédito
+251,Benjamín Ramírez,2025-10-01,19,Santa Fe,Tarjeta de Crédito
+252,Julieta Flores,2025-09-01,41,San Miguel de Tucumán,Tarjeta de Débito
+253,Facundo Benítez,2025-11-01,53,Mendoza,Mercado Pago
+254,Pilar Benítez,2025-11-01,42,La Plata,Tarjeta de Débito
+255,Sofía Acosta,2025-09-01,16,Mar del Plata,Tarjeta de Crédito
+256,Julieta Flores,2025-02-01,27,Córdoba,Mercado Pago
+257,Delfina Martínez,2025-02-01,44,Córdoba,Tarjeta de Crédito
+258,Bautista Suárez,2024-08-01,24,Santa Fe,Tarjeta de Crédito
+259,Delfina Ramírez,2025-09-01,36,Córdoba,Mercado Pago
+260,Antonella Medina,2025-05-01,39,Mendoza,Tarjeta de Crédito
+261,Mía Torres,2025-09-01,22,Salta,Tarjeta de Crédito
+262,Joaquín Ramírez,2024-12-01,31,San Miguel de Tucumán,Tarjeta de Débito
+263,Benjamín Acosta,2025-10-01,16,Córdoba,Tarjeta de Crédito
+264,Lucas Ramírez,2024-12-01,21,Córdoba,Tarjeta de Débito
+265,Lucía Martínez,2025-01-01,29,Santa Fe,Tarjeta de Crédito
+266,Victoria López,2024-10-01,19,Mar del Plata,Tarjeta de Crédito
+267,Antonella Rodríguez,2025-01-01,48,La Plata,Tarjeta de Débito
+268,Valentina Herrera,2024-08-01,17,Santa Fe,Tarjeta de Crédito
+269,Emma López,2024-12-01,27,San Miguel de Tucumán,Mercado Pago
+270,Valentina Romero,2024-10-01,33,Neuquén,Tarjeta de Crédito
+271,Antonella Medina,2025-12-01,46,Neuquén,Tarjeta de Débito
+272,Delfina Romero,2025-02-01,17,Buenos Aires,Tarjeta de Crédito
+273,Guadalupe Torres,2025-08-01,43,San Miguel de Tucumán,Tarjeta de Crédito
+274,Agustín Ruiz,2025-11-01,32,Córdoba,Tarjeta de Crédito
+275,Lucas Benítez,2024-09-01,22,Mendoza,Tarjeta de Crédito
+276,Joaquín Pérez,2025-02-01,36,San Miguel de Tucumán,Tarjeta de Crédito
+277,Franco Herrera,2025-11-01,33,Neuquén,Tarjeta de Crédito
+278,Benjamín Pérez,2025-10-01,25,Neuquén,Tarjeta de Crédito
+279,Santiago Flores,2024-10-01,32,Mar del Plata,Tarjeta de Débito
+280,Mía Romero,2025-09-01,28,Mendoza,Mercado Pago
+281,Catalina Ramírez,2024-08-01,33,Córdoba,Tarjeta de Crédito
+282,Tomás Díaz,2025-11-01,38,Buenos Aires,Tarjeta de Crédito
+283,Mateo Gómez,2025-08-01,47,La Plata,Mercado Pago
+284,Franco Romero,2025-12-01,19,La Plata,Tarjeta de Crédito
+285,Julieta Ramírez,2025-05-01,53,Rosario,Tarjeta de Crédito
+286,Tomás Medina,2025-11-01,16,San Miguel de Tucumán,Tarjeta de Crédito
+287,Mía González,2025-02-01,30,Salta,Mercado Pago
+288,Agustín Ramírez,2024-10-01,37,Neuquén,Tarjeta de Crédito
+289,Isabella López,2025-02-01,34,Mar del Plata,Tarjeta de Crédito
+290,Martina Suárez,2024-12-01,25,Salta,Mercado Pago
+291,Lucas Ramírez,2024-11-01,29,Córdoba,Tarjeta de Crédito
+292,Tomás Fernández,2025-01-01,27,Mar del Plata,Mercado Pago
+293,Emma Torres,2025-09-01,26,Rosario,Tarjeta de Crédito
+294,Tomás Benítez,2025-01-01,40,Mendoza,Mercado Pago
+295,Catalina Martínez,2025-04-01,35,Mendoza,Tarjeta de Crédito
+296,Thiago Pérez,2025-10-01,25,Neuquén,Tarjeta de Crédito
+297,Martina Acosta,2024-09-01,40,Salta,Mercado Pago
+298,Victoria Herrera,2025-02-01,35,Neuquén,Tarjeta de Crédito
+299,Benjamín Flores,2025-02-01,40,Córdoba,Tarjeta de Débito
+300,Lucía Romero,2024-07-01,38,Neuquén,Tarjeta de Crédito
+301,Lucas Díaz,2025-11-01,23,Salta,Tarjeta de Débito
+302,Catalina Díaz,2025-09-01,26,Córdoba,Tarjeta de Débito
+303,Delfina Suárez,2025-11-01,39,Santa Fe,Tarjeta de Crédito
+304,Facundo Herrera,2024-08-01,38,Mendoza,Tarjeta de Crédito
+305,Tomás Martínez,2025-01-01,31,Buenos Aires,Tarjeta de Débito
+306,Ignacio Fernández,2025-11-01,33,Santa Fe,Tarjeta de Débito
+307,Emma Flores,2025-07-01,44,Salta,Tarjeta de Débito
+308,Catalina Álvarez,2025-01-01,26,La Plata,Tarjeta de Crédito
+309,Victoria Suárez,2025-01-01,37,Buenos Aires,Mercado Pago
+310,Lucas Torres,2024-12-01,29,Córdoba,Tarjeta de Débito
+311,Isabella Romero,2025-01-01,29,Neuquén,Mercado Pago
+312,Lucas Herrera,2025-02-01,42,Rosario,Mercado Pago
+313,Nicolás Ruiz,2025-10-01,40,Rosario,Tarjeta de Débito
+314,Isabella Medina,2025-01-01,40,Mar del Plata,Tarjeta de Débito
+315,Gael Martínez,2024-10-01,45,Santa Fe,Tarjeta de Crédito
+316,Tomás Álvarez,2025-06-01,32,Buenos Aires,Tarjeta de Crédito
+317,Thiago Torres,2025-08-01,38,Salta,Tarjeta de Crédito
+318,Benjamín Fernández,2025-09-01,28,La Plata,Mercado Pago
+319,Tomás Medina,2025-01-01,35,Santa Fe,Tarjeta de Crédito
+320,Dante Suárez,2025-07-01,30,Rosario,Tarjeta de Débito
+321,Martina Pérez,2025-07-01,32,Neuquén,Mercado Pago
+322,Pilar Flores,2025-05-01,37,Buenos Aires,Tarjeta de Crédito
+323,Facundo Suárez,2024-09-01,23,La Plata,Mercado Pago
+324,Emma Medina,2024-09-01,52,Mendoza,Tarjeta de Crédito
+325,Dante Gómez,2024-10-01,21,San Miguel de Tucumán,Tarjeta de Débito
+326,Facundo Díaz,2024-10-01,19,Mar del Plata,Tarjeta de Débito
+327,Martina Gómez,2025-04-01,43,Neuquén,Tarjeta de Crédito
+328,Sofía Acosta,2025-09-01,39,San Miguel de Tucumán,Tarjeta de Débito
+329,Ignacio Benítez,2025-07-01,38,Córdoba,Tarjeta de Crédito
+330,Santiago Flores,2024-10-01,38,Santa Fe,Tarjeta de Crédito
+331,Lucas Sánchez,2025-12-01,31,Salta,Mercado Pago
+332,Mía Rodríguez,2025-05-01,23,Mar del Plata,Tarjeta de Débito
+333,Bautista Fernández,2025-02-01,32,San Miguel de Tucumán,Tarjeta de Crédito
+334,Guadalupe López,2025-08-01,25,San Miguel de Tucumán,Mercado Pago
+335,Sofía Díaz,2025-08-01,41,Salta,Tarjeta de Débito
+336,Franco Acosta,2025-10-01,30,Salta,Tarjeta de Débito
+337,Mateo Romero,2024-07-01,23,Mendoza,Mercado Pago
+338,Mía López,2025-08-01,28,La Plata,Tarjeta de Crédito
+339,Sofía Sánchez,2024-09-01,36,Mar del Plata,Tarjeta de Débito
+340,Lucas López,2025-12-01,26,Salta,Tarjeta de Débito
+341,Nicolás Benítez,2025-08-01,23,Neuquén,Tarjeta de Crédito
+342,Isabella Ramírez,2025-04-01,34,Buenos Aires,Tarjeta de Débito
+343,Agustín Ramírez,2025-10-01,34,Rosario,Tarjeta de Débito
+344,Tomás Álvarez,2024-07-01,26,Córdoba,Transferencia Bancaria
+345,Lucía Benítez,2024-09-01,27,Santa Fe,Tarjeta de Crédito
+346,Sofía Ruiz,2025-12-01,34,San Miguel de Tucumán,Tarjeta de Crédito
+347,Catalina Fernández,2025-09-01,17,San Miguel de Tucumán,Tarjeta de Crédito
+348,Franco Herrera,2025-01-01,17,San Miguel de Tucumán,Tarjeta de Crédito
+349,Renata Torres,2024-09-01,24,Rosario,Mercado Pago
+350,Ignacio Acosta,2025-10-01,29,Rosario,Mercado Pago
+351,Ignacio Flores,2025-11-01,35,Buenos Aires,Tarjeta de Crédito
+352,Lucía Gómez,2025-02-01,46,Buenos Aires,Tarjeta de Crédito
+353,Tomás Ruiz,2025-11-01,40,Santa Fe,Tarjeta de Débito
+354,Franco Gómez,2025-11-01,30,La Plata,Tarjeta de Crédito
+355,Antonella Torres,2024-12-01,31,La Plata,Tarjeta de Crédito
+356,Mía Ruiz,2024-12-01,21,Salta,Mercado Pago
+357,Joaquín Pérez,2024-12-01,31,Salta,Tarjeta de Débito
+358,Guadalupe Benítez,2024-10-01,29,La Plata,Mercado Pago
+359,Lucas Ramírez,2025-06-01,35,Neuquén,Transferencia Bancaria
+360,Renata Díaz,2025-01-01,23,San Miguel de Tucumán,Tarjeta de Crédito
+361,Victoria Díaz,2024-10-01,37,La Plata,Tarjeta de Crédito
+362,Martina Flores,2025-01-01,47,San Miguel de Tucumán,Tarjeta de Crédito
+363,Delfina Ramírez,2025-11-01,30,La Plata,Tarjeta de Débito
+364,Lucas Ruiz,2025-07-01,36,San Miguel de Tucumán,Tarjeta de Débito
+365,Mateo Martínez,2024-10-01,38,Neuquén,Tarjeta de Débito
+366,Sofía Martínez,2024-12-01,27,Córdoba,Tarjeta de Crédito
+367,Catalina Ruiz,2025-07-01,34,Neuquén,Tarjeta de Crédito
+368,Victoria Flores,2025-10-01,32,San Miguel de Tucumán,Tarjeta de Crédito
+369,Agustín Martínez,2025-02-01,32,Santa Fe,Tarjeta de Crédito
+370,Nicolás Romero,2025-12-01,24,Mendoza,Transferencia Bancaria
+371,Pilar Pérez,2025-09-01,32,Salta,Tarjeta de Débito
+372,Santiago Romero,2025-03-01,36,Salta,Tarjeta de Crédito
+373,Ignacio Acosta,2025-10-01,46,Mendoza,Tarjeta de Crédito
+374,Facundo Pérez,2025-02-01,41,Salta,Transferencia Bancaria
+375,Victoria Álvarez,2025-03-01,53,Córdoba,Tarjeta de Débito
+376,Dante Díaz,2025-07-01,24,Rosario,Tarjeta de Débito
+377,Lucía Álvarez,2025-06-01,40,Santa Fe,Tarjeta de Crédito
+378,Lucía Martínez,2025-12-01,33,Mendoza,Mercado Pago
+379,Catalina Medina,2025-08-01,53,Neuquén,Tarjeta de Crédito
+380,Delfina Fernández,2024-08-01,23,Córdoba,Tarjeta de Crédito
+381,Tomás Ramírez,2025-10-01,23,Mar del Plata,Mercado Pago
+382,Benjamín Torres,2024-07-01,26,Córdoba,Tarjeta de Crédito
+383,Catalina Martínez,2025-06-01,16,Santa Fe,Tarjeta de Débito
+384,Franco Martínez,2025-11-01,26,Mar del Plata,Tarjeta de Débito
+385,Gael López,2025-07-01,24,Santa Fe,Tarjeta de Crédito
+386,Martina Torres,2024-07-01,33,Mendoza,Tarjeta de Crédito
+387,Dante Díaz,2025-03-01,35,Córdoba,Tarjeta de Crédito
+388,Benjamín Díaz,2024-08-01,50,Neuquén,Tarjeta de Débito
+389,Nicolás Pérez,2025-07-01,41,Neuquén,Mercado Pago
+390,Martina Suárez,2025-11-01,26,Neuquén,Tarjeta de Crédito
+391,Gael González,2025-04-01,23,Córdoba,Tarjeta de Crédito
+392,Nicolás Gómez,2025-11-01,36,Neuquén,Tarjeta de Crédito
+393,Julieta Medina,2025-02-01,18,La Plata,Tarjeta de Débito
+394,Julieta Sánchez,2025-10-01,50,Mar del Plata,Tarjeta de Crédito
+395,Ignacio Rodríguez,2024-08-01,43,Rosario,Tarjeta de Crédito
+396,Facundo Gómez,2025-02-01,27,San Miguel de Tucumán,Tarjeta de Débito
+397,Antonella Torres,2025-08-01,16,San Miguel de Tucumán,Transferencia Bancaria
+398,Franco Álvarez,2025-02-01,45,Santa Fe,Tarjeta de Débito
+399,Emma Flores,2025-04-01,30,Córdoba,Tarjeta de Crédito
+400,Benjamín López,2024-12-01,44,Buenos Aires,Tarjeta de Crédito
+401,Antonella Suárez,2025-07-01,16,Mar del Plata,Tarjeta de Crédito
+402,Gael Torres,2025-06-01,26,Neuquén,Tarjeta de Débito
+403,Franco Pérez,2024-09-01,32,Salta,Transferencia Bancaria
+404,Julieta Díaz,2024-11-01,32,Salta,Tarjeta de Crédito
+405,Tomás Flores,2025-01-01,27,Mendoza,Tarjeta de Crédito
+406,Sofía Rodríguez,2024-09-01,38,La Plata,Tarjeta de Débito
+407,Isabella Medina,2024-10-01,21,Buenos Aires,Mercado Pago
+408,Benjamín Romero,2024-12-01,30,San Miguel de Tucumán,Mercado Pago
+409,Sofía Ruiz,2025-06-01,33,Buenos Aires,Tarjeta de Débito
+410,Catalina Medina,2024-08-01,37,La Plata,Tarjeta de Crédito
+411,Facundo Medina,2025-09-01,39,La Plata,Mercado Pago
+412,Benjamín López,2025-01-01,20,Mar del Plata,Tarjeta de Crédito
+413,Renata Álvarez,2024-07-01,16,Rosario,Tarjeta de Crédito
+414,Bautista Benítez,2025-08-01,44,Buenos Aires,Tarjeta de Crédito
+415,Ignacio Torres,2025-08-01,35,Salta,Tarjeta de Débito
+416,Delfina Benítez,2025-02-01,24,Rosario,Tarjeta de Crédito
+417,Martina Ruiz,2025-02-01,47,Neuquén,Tarjeta de Débito
+418,Agustín Torres,2024-08-01,33,Santa Fe,Mercado Pago
+419,Ignacio Herrera,2025-12-01,43,La Plata,Tarjeta de Débito
+420,Catalina Torres,2025-02-01,32,Córdoba,Transferencia Bancaria
+421,Lucía González,2025-05-01,52,Neuquén,Tarjeta de Débito
+422,Pilar Rodríguez,2024-07-01,49,Neuquén,Tarjeta de Débito
+423,Nicolás Suárez,2025-04-01,29,Mar del Plata,Tarjeta de Crédito
+424,Sofía Herrera,2024-10-01,41,Córdoba,Tarjeta de Crédito
+425,Joaquín Ramírez,2025-06-01,38,Rosario,Tarjeta de Crédito
+426,Mía Benítez,2025-10-01,45,Neuquén,Mercado Pago
+427,Ignacio Martínez,2025-02-01,22,Santa Fe,Tarjeta de Crédito
+428,Victoria Acosta,2025-07-01,38,Santa Fe,Tarjeta de Crédito
+429,Facundo Medina,2025-04-01,42,San Miguel de Tucumán,Tarjeta de Débito
+430,Delfina Acosta,2025-03-01,16,Mendoza,Transferencia Bancaria
+431,Renata Díaz,2025-03-01,20,Mendoza,Mercado Pago
+432,Franco Díaz,2024-08-01,16,Mendoza,Tarjeta de Débito
+433,Joaquín Acosta,2025-03-01,29,San Miguel de Tucumán,Tarjeta de Débito
+434,Isabella López,2024-12-01,39,Neuquén,Tarjeta de Débito
+435,Dante Ruiz,2025-08-01,47,San Miguel de Tucumán,Transferencia Bancaria
+436,Isabella Rodríguez,2025-10-01,32,La Plata,Transferencia Bancaria
+437,Catalina Flores,2025-05-01,48,La Plata,Tarjeta de Débito
+438,Thiago Medina,2025-03-01,18,La Plata,Mercado Pago
+439,Benjamín López,2025-04-01,16,Neuquén,Tarjeta de Débito
+440,Emma Rodríguez,2025-05-01,31,Santa Fe,Tarjeta de Crédito
+441,Sofía López,2024-09-01,35,Mar del Plata,Tarjeta de Crédito
+442,Valentina Martínez,2025-07-01,31,Buenos Aires,Transferencia Bancaria
+443,Mía Acosta,2025-03-01,16,Salta,Tarjeta de Débito
+444,Joaquín Díaz,2025-10-01,31,Buenos Aires,Mercado Pago
+445,Nicolás Herrera,2025-11-01,18,Mendoza,Tarjeta de Débito
+446,Guadalupe Pérez,2025-07-01,38,Mar del Plata,Mercado Pago
+447,Guadalupe Rodríguez,2025-06-01,35,Mar del Plata,Mercado Pago
+448,Guadalupe Díaz,2025-09-01,22,Buenos Aires,Tarjeta de Crédito
+449,Guadalupe Torres,2024-07-01,26,La Plata,Tarjeta de Débito
+450,Julieta Martínez,2025-06-01,21,Santa Fe,Tarjeta de Débito
+451,Lucía López,2024-09-01,31,San Miguel de Tucumán,Tarjeta de Crédito
+452,Nicolás Romero,2025-01-01,41,Rosario,Tarjeta de Crédito
+453,Lucía Díaz,2025-06-01,22,Neuquén,Tarjeta de Débito
+454,Martina Suárez,2024-07-01,37,Mar del Plata,Mercado Pago
+455,Joaquín Fernández,2025-06-01,26,Mar del Plata,Tarjeta de Débito
+456,Benjamín Acosta,2025-12-01,24,San Miguel de Tucumán,Mercado Pago
+457,Santiago Ruiz,2025-04-01,30,Mendoza,Tarjeta de Crédito
+458,Joaquín Díaz,2025-12-01,21,Neuquén,Tarjeta de Débito
+459,Santiago Álvarez,2025-09-01,26,Mendoza,Tarjeta de Crédito
+460,Facundo Díaz,2024-08-01,20,Rosario,Tarjeta de Crédito
+461,Guadalupe Díaz,2025-03-01,51,Córdoba,Tarjeta de Débito
+462,Catalina Suárez,2025-08-01,32,Mendoza,Tarjeta de Crédito
+463,Julieta Martínez,2024-12-01,25,Salta,Tarjeta de Débito
+464,Mía Medina,2025-05-01,34,Salta,Mercado Pago
+465,Franco Sánchez,2025-10-01,30,Neuquén,Mercado Pago
+466,Tomás Flores,2025-10-01,29,Santa Fe,Tarjeta de Débito
+467,Guadalupe Herrera,2024-08-01,38,Córdoba,Tarjeta de Crédito
+468,Thiago Herrera,2025-01-01,39,Santa Fe,Tarjeta de Crédito
+469,Antonella Benítez,2025-06-01,26,Salta,Tarjeta de Crédito
+470,Ignacio Herrera,2024-07-01,26,Salta,Tarjeta de Crédito
+471,Facundo Rodríguez,2024-11-01,29,Salta,Tarjeta de Crédito
+472,Facundo Herrera,2025-02-01,16,Buenos Aires,Tarjeta de Débito
+473,Pilar González,2025-12-01,16,Mar del Plata,Tarjeta de Crédito
+474,Pilar Gómez,2024-10-01,45,Neuquén,Tarjeta de Crédito
+475,Catalina Fernández,2025-10-01,48,Santa Fe,Transferencia Bancaria
+476,Guadalupe Acosta,2025-06-01,29,Buenos Aires,Tarjeta de Crédito
+477,Franco Martínez,2024-12-01,37,Mar del Plata,Tarjeta de Crédito
+478,Facundo Ruiz,2025-08-01,35,Mar del Plata,Tarjeta de Crédito
+479,Nicolás Álvarez,2024-11-01,62,Córdoba,Tarjeta de Crédito
+480,Tomás Martínez,2025-12-01,43,Mendoza,Mercado Pago
+481,Isabella Flores,2024-12-01,30,Santa Fe,Tarjeta de Crédito
+482,Gael Sánchez,2025-07-01,22,Mendoza,Tarjeta de Débito
+483,Santiago Gómez,2024-10-01,16,Córdoba,Tarjeta de Crédito
+484,Delfina González,2025-09-01,34,Mendoza,Tarjeta de Crédito
+485,Delfina Rodríguez,2025-11-01,24,Salta,Tarjeta de Débito
+486,Emma Rodríguez,2025-05-01,17,Mar del Plata,Tarjeta de Crédito
+487,Franco Rodríguez,2025-03-01,25,Rosario,Tarjeta de Débito
+488,Emma Herrera,2025-02-01,21,San Miguel de Tucumán,Tarjeta de Débito
+489,Emma Díaz,2024-07-01,48,Rosario,Transferencia Bancaria
+490,Emma Ramírez,2025-07-01,40,La Plata,Tarjeta de Crédito
+491,Nicolás Ramírez,2025-01-01,31,Santa Fe,Tarjeta de Débito
+492,Nicolás Ruiz,2024-10-01,46,Santa Fe,Tarjeta de Crédito
+493,Mía Martínez,2024-09-01,32,La Plata,Tarjeta de Crédito
+494,Emma Sánchez,2025-08-01,23,La Plata,Mercado Pago
+495,Lucía Flores,2024-10-01,47,Buenos Aires,Tarjeta de Débito
+496,Renata Benítez,2025-04-01,37,Rosario,Tarjeta de Crédito
+497,Thiago Torres,2024-12-01,21,Córdoba,Mercado Pago
+498,Lucas Medina,2024-12-01,30,Mendoza,Tarjeta de Crédito
+499,Victoria Suárez,2025-10-01,23,Neuquén,Tarjeta de Crédito
+500,Thiago Herrera,2025-06-01,18,Santa Fe,Tarjeta de Crédito
+501,Antonella Torres,2025-12-01,41,La Plata,Transferencia Bancaria
+502,Thiago Gómez,2024-08-01,51,Córdoba,Tarjeta de Débito
+503,Guadalupe Sánchez,2024-11-01,18,Neuquén,Tarjeta de Débito
+504,Guadalupe Sánchez,2025-03-01,37,Santa Fe,Tarjeta de Crédito
+505,Bautista Flores,2025-02-01,25,Santa Fe,Tarjeta de Débito
+506,Santiago Álvarez,2024-09-01,27,Santa Fe,Mercado Pago
+507,Valentina Acosta,2024-12-01,26,San Miguel de Tucumán,Mercado Pago
+508,Joaquín Ramírez,2025-05-01,23,Buenos Aires,Tarjeta de Débito
+509,Pilar Martínez,2024-10-01,32,Buenos Aires,Tarjeta de Crédito
+510,Isabella Martínez,2024-12-01,23,Mendoza,Tarjeta de Crédito
+511,Agustín Sánchez,2025-01-01,34,Salta,Tarjeta de Débito
+512,Santiago Acosta,2025-01-01,31,Salta,Tarjeta de Débito
+513,Martina Martínez,2025-11-01,29,Santa Fe,Tarjeta de Débito
+514,Tomás Rodríguez,2025-11-01,22,Córdoba,Mercado Pago
+515,Franco González,2025-05-01,26,Mar del Plata,Tarjeta de Crédito
+516,Lucas Martínez,2024-09-01,39,Buenos Aires,Tarjeta de Crédito
+517,Catalina Rodríguez,2024-08-01,37,Neuquén,Tarjeta de Débito
+518,Victoria Acosta,2024-11-01,22,Buenos Aires,Tarjeta de Crédito
+519,Mateo González,2025-03-01,32,Santa Fe,Tarjeta de Débito
+520,Mateo Benítez,2025-07-01,39,Mar del Plata,Mercado Pago
+521,Valentina López,2025-06-01,16,Santa Fe,Tarjeta de Crédito
+522,Delfina Benítez,2025-04-01,37,La Plata,Mercado Pago
+523,Lucía Ruiz,2024-11-01,25,Córdoba,Tarjeta de Crédito
+524,Facundo Herrera,2025-05-01,37,Mendoza,Transferencia Bancaria
+525,Isabella Fernández,2024-12-01,24,Buenos Aires,Tarjeta de Crédito
+526,Bautista Medina,2025-12-01,16,Salta,Tarjeta de Crédito
+527,Ignacio Pérez,2024-10-01,16,Córdoba,Tarjeta de Débito
+528,Nicolás Torres,2025-09-01,32,Neuquén,Transferencia Bancaria
+529,Dante Benítez,2024-09-01,34,Buenos Aires,Tarjeta de Crédito
+530,Santiago Rodríguez,2025-03-01,22,Córdoba,Tarjeta de Débito
+531,Dante Medina,2025-07-01,38,Neuquén,Tarjeta de Débito
+532,Guadalupe Torres,2025-08-01,16,Buenos Aires,Transferencia Bancaria
+533,Franco Ruiz,2025-04-01,31,Córdoba,Tarjeta de Crédito
+534,Agustín Ruiz,2025-08-01,19,Santa Fe,Tarjeta de Crédito
+535,Lucía Fernández,2025-01-01,25,Santa Fe,Tarjeta de Débito
+536,Sofía López,2025-10-01,32,Mar del Plata,Tarjeta de Crédito
+537,Joaquín Suárez,2024-11-01,23,Neuquén,Transferencia Bancaria
+538,Franco Torres,2024-09-01,28,Buenos Aires,Tarjeta de Débito
+539,Julieta Sánchez,2024-12-01,42,San Miguel de Tucumán,Tarjeta de Débito
+540,Mía Pérez,2025-10-01,26,Neuquén,Tarjeta de Débito
+541,Franco Suárez,2025-10-01,40,La Plata,Mercado Pago
+542,Lucas Romero,2025-07-01,20,Rosario,Tarjeta de Crédito
+543,Pilar Ruiz,2025-09-01,37,San Miguel de Tucumán,Tarjeta de Crédito
+544,Mateo Díaz,2025-03-01,46,Salta,Tarjeta de Crédito
+545,Valentina Martínez,2024-09-01,16,Córdoba,Tarjeta de Crédito
+546,Renata Medina,2025-12-01,24,Santa Fe,Tarjeta de Crédito
+547,Lucas Álvarez,2025-02-01,37,Santa Fe,Tarjeta de Crédito
+548,Antonella Ruiz,2024-11-01,29,Buenos Aires,Tarjeta de Crédito
+549,Franco Fernández,2025-04-01,35,Santa Fe,Mercado Pago
+550,Agustín Benítez,2025-07-01,25,Rosario,Tarjeta de Débito
+551,Benjamín Romero,2025-08-01,32,La Plata,Tarjeta de Crédito
+552,Lucas Pérez,2025-02-01,30,Mar del Plata,Tarjeta de Crédito
+553,Julieta Fernández,2025-04-01,43,San Miguel de Tucumán,Tarjeta de Crédito
+554,Pilar Acosta,2024-09-01,34,Neuquén,Tarjeta de Débito
+555,Valentina Martínez,2024-11-01,35,La Plata,Tarjeta de Crédito
+556,Joaquín Suárez,2025-01-01,27,Mar del Plata,Mercado Pago
+557,Facundo Torres,2025-08-01,27,Mar del Plata,Mercado Pago
+558,Isabella Torres,2025-06-01,27,Neuquén,Mercado Pago
+559,Julieta Torres,2025-02-01,35,Rosario,Transferencia Bancaria
+560,Isabella Acosta,2025-02-01,27,Neuquén,Mercado Pago
+561,Bautista Romero,2025-06-01,34,Mar del Plata,Tarjeta de Crédito
+562,Agustín Medina,2025-12-01,52,Rosario,Tarjeta de Débito
+563,Pilar Flores,2025-03-01,40,Mendoza,Tarjeta de Crédito
+564,Gael Fernández,2025-08-01,28,Mar del Plata,Tarjeta de Débito
+565,Nicolás Díaz,2025-07-01,44,Mendoza,Tarjeta de Crédito
+566,Ignacio Ramírez,2024-08-01,27,Mar del Plata,Tarjeta de Crédito
+567,Agustín Ruiz,2024-10-01,16,Santa Fe,Tarjeta de Débito
+568,Renata Rodríguez,2025-10-01,21,San Miguel de Tucumán,Tarjeta de Débito
+569,Valentina Sánchez,2025-11-01,16,San Miguel de Tucumán,Tarjeta de Crédito
+570,Agustín Ruiz,2024-10-01,28,San Miguel de Tucumán,Transferencia Bancaria
+571,Valentina González,2024-07-01,32,Córdoba,Tarjeta de Crédito
+572,Pilar Benítez,2025-05-01,48,Santa Fe,Tarjeta de Débito
+573,Facundo Álvarez,2024-08-01,35,Mar del Plata,Tarjeta de Débito
+574,Benjamín Álvarez,2025-03-01,29,Buenos Aires,Tarjeta de Débito
+575,Mía Fernández,2025-08-01,40,Córdoba,Mercado Pago
+576,Catalina Díaz,2025-06-01,16,San Miguel de Tucumán,Tarjeta de Débito
+577,Tomás Acosta,2024-10-01,34,San Miguel de Tucumán,Tarjeta de Débito
+578,Pilar Flores,2025-11-01,39,San Miguel de Tucumán,Tarjeta de Crédito
+579,Lucía López,2025-09-01,17,Buenos Aires,Mercado Pago
+580,Victoria Pérez,2025-07-01,43,Mendoza,Tarjeta de Débito
+581,Joaquín Medina,2025-05-01,35,Mar del Plata,Transferencia Bancaria
+582,Lucía Ruiz,2024-10-01,27,Rosario,Tarjeta de Crédito
+583,Bautista González,2024-09-01,38,Neuquén,Mercado Pago
+584,Agustín Ramírez,2025-05-01,54,Mar del Plata,Tarjeta de Crédito
+585,Thiago Romero,2025-06-01,33,Córdoba,Tarjeta de Débito
+586,Catalina Torres,2025-04-01,34,Mendoza,Tarjeta de Débito
+587,Victoria Acosta,2025-02-01,27,Santa Fe,Transferencia Bancaria
+588,Delfina Ruiz,2025-09-01,23,Neuquén,Tarjeta de Crédito
+589,Catalina Álvarez,2025-03-01,40,Salta,Tarjeta de Débito
+590,Guadalupe Suárez,2025-08-01,23,Neuquén,Tarjeta de Crédito
+591,Joaquín López,2025-06-01,32,Mendoza,Tarjeta de Crédito
+592,Catalina Martínez,2025-08-01,27,Santa Fe,Tarjeta de Crédito
+593,Agustín Ruiz,2025-07-01,36,Mar del Plata,Tarjeta de Crédito
+594,Renata Pérez,2025-06-01,35,Salta,Tarjeta de Crédito
+595,Joaquín Flores,2024-12-01,42,Neuquén,Tarjeta de Crédito
+596,Mateo Acosta,2024-12-01,26,Rosario,Tarjeta de Crédito
+597,Renata Benítez,2024-08-01,29,Salta,Tarjeta de Crédito
+598,Mía Flores,2025-11-01,22,Salta,Tarjeta de Crédito
+599,Lucía Sánchez,2025-05-01,27,La Plata,Tarjeta de Crédito
+600,Renata Díaz,2024-08-01,35,Rosario,Mercado Pago
+601,Renata Benítez,2025-04-01,39,Córdoba,Tarjeta de Débito
+602,Franco Medina,2025-11-01,22,San Miguel de Tucumán,Tarjeta de Débito
+603,Franco Flores,2024-10-01,40,Santa Fe,Tarjeta de Crédito
+604,Valentina Sánchez,2025-11-01,45,La Plata,Mercado Pago
+605,Facundo Romero,2025-10-01,36,San Miguel de Tucumán,Mercado Pago
+606,Facundo López,2025-01-01,50,Mendoza,Tarjeta de Crédito
+607,Antonella Suárez,2025-08-01,24,Mar del Plata,Tarjeta de Crédito
+608,Lucía Gómez,2025-01-01,19,Mendoza,Mercado Pago
+609,Renata Romero,2025-02-01,16,Neuquén,Tarjeta de Débito
+610,Ignacio Díaz,2024-07-01,46,La Plata,Tarjeta de Débito
+611,Dante López,2024-11-01,38,Rosario,Transferencia Bancaria
+612,Guadalupe Rodríguez,2025-08-01,31,La Plata,Mercado Pago
+613,Ignacio Martínez,2025-02-01,34,Mendoza,Tarjeta de Crédito
+614,Gael Sánchez,2025-03-01,20,Mar del Plata,Tarjeta de Débito
+615,Nicolás Ramírez,2025-09-01,56,Mar del Plata,Tarjeta de Débito
+616,Bautista Benítez,2024-12-01,33,La Plata,Tarjeta de Débito
+617,Facundo Acosta,2025-09-01,33,San Miguel de Tucumán,Tarjeta de Débito
+618,Pilar Flores,2024-11-01,39,San Miguel de Tucumán,Mercado Pago
+619,Thiago Ramírez,2025-02-01,36,Mendoza,Tarjeta de Débito
+620,Gael Díaz,2025-08-01,34,San Miguel de Tucumán,Tarjeta de Débito
+621,Agustín Acosta,2025-11-01,24,San Miguel de Tucumán,Mercado Pago
+622,Sofía López,2025-07-01,36,Salta,Tarjeta de Crédito
+623,Facundo Flores,2024-10-01,50,Buenos Aires,Transferencia Bancaria
+624,Thiago Martínez,2025-03-01,45,La Plata,Tarjeta de Crédito
+625,Lucas Álvarez,2025-07-01,47,La Plata,Tarjeta de Crédito
+626,Sofía Ruiz,2025-05-01,26,La Plata,Tarjeta de Débito
+627,Mía Fernández,2024-08-01,22,Córdoba,Tarjeta de Crédito
+628,Lucas Martínez,2024-10-01,30,Neuquén,Tarjeta de Crédito
+629,Mateo González,2024-10-01,32,San Miguel de Tucumán,Mercado Pago
+630,Ignacio Martínez,2024-12-01,42,Salta,Tarjeta de Crédito
+631,Lucas López,2025-02-01,16,Córdoba,Tarjeta de Crédito
+632,Benjamín Ruiz,2025-08-01,47,Rosario,Tarjeta de Débito
+633,Lucas Benítez,2025-07-01,30,Neuquén,Tarjeta de Crédito
+634,Facundo Álvarez,2025-07-01,27,Mendoza,Tarjeta de Débito
+635,Guadalupe Ramírez,2025-05-01,21,Neuquén,Tarjeta de Débito
+636,Lucas López,2024-12-01,16,Rosario,Mercado Pago
+637,Catalina Ramírez,2025-04-01,40,San Miguel de Tucumán,Mercado Pago
+638,Santiago Fernández,2025-03-01,32,Mendoza,Tarjeta de Débito
+639,Franco González,2024-07-01,19,La Plata,Tarjeta de Crédito
+640,Thiago Ruiz,2025-04-01,19,La Plata,Tarjeta de Débito
+641,Julieta Ruiz,2025-10-01,28,Córdoba,Tarjeta de Crédito
+642,Tomás González,2025-08-01,48,San Miguel de Tucumán,Mercado Pago
+643,Bautista Herrera,2025-07-01,29,Mar del Plata,Tarjeta de Crédito
+644,Franco Acosta,2025-10-01,16,Córdoba,Tarjeta de Crédito
+645,Mateo Romero,2025-10-01,29,Mendoza,Tarjeta de Crédito
+646,Lucía Ruiz,2024-08-01,29,Santa Fe,Tarjeta de Crédito
+647,Franco Ramírez,2025-10-01,16,Mar del Plata,Tarjeta de Débito
+648,Nicolás Medina,2025-03-01,31,Santa Fe,Tarjeta de Débito
+649,Lucas Díaz,2025-06-01,29,Córdoba,Tarjeta de Débito
+650,Lucía Martínez,2025-10-01,38,Santa Fe,Tarjeta de Crédito
+651,Isabella Ramírez,2025-10-01,50,Mendoza,Tarjeta de Crédito
+652,Guadalupe Ramírez,2025-11-01,43,Córdoba,Tarjeta de Débito
+653,Isabella Pérez,2025-08-01,29,Córdoba,Tarjeta de Crédito
+654,Ignacio González,2025-01-01,20,Rosario,Tarjeta de Débito
+655,Tomás Benítez,2025-08-01,57,La Plata,Tarjeta de Crédito
+656,Pilar Romero,2025-12-01,32,Córdoba,Mercado Pago
+657,Joaquín Ramírez,2025-04-01,32,La Plata,Tarjeta de Débito
+658,Ignacio Herrera,2024-07-01,31,Córdoba,Tarjeta de Débito
+659,Catalina Rodríguez,2025-07-01,33,Salta,Mercado Pago
+660,Catalina Pérez,2025-09-01,30,La Plata,Mercado Pago
+661,Emma Benítez,2025-12-01,26,Buenos Aires,Tarjeta de Crédito
+662,Emma Rodríguez,2025-07-01,26,Salta,Tarjeta de Crédito
+663,Martina Rodríguez,2024-10-01,31,Santa Fe,Mercado Pago
+664,Emma Torres,2025-02-01,26,Mendoza,Tarjeta de Crédito
+665,Santiago Fernández,2024-08-01,24,Neuquén,Tarjeta de Crédito
+666,Victoria Rodríguez,2024-07-01,33,Rosario,Tarjeta de Crédito
+667,Sofía Ruiz,2025-03-01,29,Córdoba,Mercado Pago
+668,Franco Díaz,2024-09-01,47,San Miguel de Tucumán,Tarjeta de Crédito
+669,Mateo Álvarez,2025-02-01,16,Mendoza,Tarjeta de Crédito
+670,Pilar Suárez,2024-08-01,42,Mendoza,Tarjeta de Débito
+671,Franco Gómez,2025-04-01,44,Santa Fe,Mercado Pago
+672,Benjamín González,2025-01-01,16,Mar del Plata,Tarjeta de Crédito
+673,Nicolás González,2024-12-01,28,San Miguel de Tucumán,Tarjeta de Crédito
+674,Antonella Díaz,2025-05-01,28,Córdoba,Tarjeta de Crédito
+675,Mía Acosta,2025-08-01,17,Buenos Aires,Transferencia Bancaria
+676,Ignacio Romero,2025-05-01,24,Córdoba,Tarjeta de Crédito
+677,Dante Benítez,2024-12-01,20,Mar del Plata,Tarjeta de Débito
+678,Facundo Fernández,2025-08-01,49,Neuquén,Tarjeta de Crédito
+679,Nicolás Ruiz,2025-10-01,41,Córdoba,Tarjeta de Débito
+680,Mía Martínez,2025-02-01,44,Mendoza,Tarjeta de Crédito
+681,Guadalupe Ruiz,2025-03-01,39,San Miguel de Tucumán,Tarjeta de Crédito
+682,Emma Fernández,2025-09-01,20,Mendoza,Tarjeta de Crédito
+683,Benjamín López,2025-02-01,26,Rosario,Tarjeta de Crédito
+684,Mía López,2025-06-01,36,Santa Fe,Tarjeta de Crédito
+685,Facundo Díaz,2025-08-01,19,Salta,Tarjeta de Crédito
+686,Lucas Pérez,2025-11-01,39,La Plata,Mercado Pago
+687,Thiago Torres,2025-04-01,29,Rosario,Tarjeta de Crédito
+688,Catalina Ruiz,2025-02-01,28,Santa Fe,Tarjeta de Crédito
+689,Santiago Pérez,2024-09-01,39,Buenos Aires,Transferencia Bancaria
+690,Renata Medina,2025-09-01,36,Mendoza,Tarjeta de Crédito
+691,Lucía Martínez,2025-05-01,28,Córdoba,Tarjeta de Crédito
+692,Benjamín Gómez,2025-10-01,43,Mar del Plata,Tarjeta de Crédito
+693,Agustín Herrera,2025-10-01,21,La Plata,Mercado Pago
+694,Mateo Fernández,2024-10-01,38,Mendoza,Mercado Pago
+695,Lucía Martínez,2025-01-01,37,Córdoba,Mercado Pago
+696,Valentina Rodríguez,2024-10-01,28,Salta,Tarjeta de Crédito
+697,Gael Ruiz,2024-10-01,35,Salta,Tarjeta de Crédito
+698,Martina Álvarez,2025-03-01,19,Mendoza,Mercado Pago
+699,Santiago Flores,2025-04-01,41,Rosario,Tarjeta de Crédito
+700,Nicolás Díaz,2024-08-01,30,Salta,Tarjeta de Crédito
+701,Sofía Fernández,2024-10-01,26,La Plata,Tarjeta de Crédito
+702,Thiago Benítez,2025-12-01,42,Mendoza,Tarjeta de Débito
+703,Bautista Álvarez,2024-08-01,24,Salta,Tarjeta de Débito
+704,Catalina Herrera,2025-03-01,17,Santa Fe,Tarjeta de Crédito
+705,Martina González,2025-12-01,16,San Miguel de Tucumán,Tarjeta de Débito
+706,Dante Romero,2024-09-01,38,Buenos Aires,Mercado Pago
+707,Tomás Álvarez,2025-07-01,19,Neuquén,Transferencia Bancaria
+708,Valentina Sánchez,2025-11-01,49,Mendoza,Tarjeta de Crédito
+709,Franco Sánchez,2024-11-01,16,Neuquén,Mercado Pago
+710,Catalina Pérez,2025-02-01,48,Rosario,Tarjeta de Crédito
+711,Lucía Álvarez,2025-01-01,34,Neuquén,Tarjeta de Crédito
+712,Agustín Herrera,2025-06-01,31,Rosario,Tarjeta de Débito
+713,Gael Acosta,2024-08-01,26,Santa Fe,Tarjeta de Crédito
+714,Sofía Fernández,2025-05-01,35,Buenos Aires,Tarjeta de Crédito
+715,Mateo Benítez,2025-06-01,31,Salta,Tarjeta de Crédito
+716,Lucía Martínez,2025-02-01,43,San Miguel de Tucumán,Tarjeta de Débito
+717,Sofía González,2025-08-01,33,Rosario,Tarjeta de Débito
+718,Franco López,2025-10-01,33,Santa Fe,Mercado Pago
+719,Catalina Ruiz,2025-02-01,28,Neuquén,Tarjeta de Crédito
+720,Joaquín Martínez,2024-10-01,31,Rosario,Tarjeta de Débito
+721,Lucía Acosta,2024-12-01,35,San Miguel de Tucumán,Tarjeta de Crédito
+722,Emma Herrera,2025-03-01,16,Rosario,Tarjeta de Crédito
+723,Benjamín Pérez,2024-11-01,18,Buenos Aires,Mercado Pago
+724,Antonella Herrera,2025-02-01,39,Buenos Aires,Tarjeta de Crédito
+725,Guadalupe Suárez,2025-09-01,33,Mendoza,Tarjeta de Débito
+726,Guadalupe Acosta,2025-10-01,30,Rosario,Tarjeta de Crédito
+727,Emma Álvarez,2025-10-01,32,San Miguel de Tucumán,Tarjeta de Crédito
+728,Gael Torres,2025-05-01,35,Salta,Tarjeta de Crédito
+729,Emma Fernández,2025-09-01,26,San Miguel de Tucumán,Tarjeta de Crédito
+730,Pilar González,2024-10-01,24,Buenos Aires,Tarjeta de Crédito
+731,Martina Ramírez,2025-01-01,33,Salta,Mercado Pago
+732,Renata Ruiz,2025-05-01,22,Córdoba,Mercado Pago
+733,Martina Flores,2025-11-01,36,Córdoba,Mercado Pago
+734,Isabella González,2025-09-01,16,San Miguel de Tucumán,Tarjeta de Crédito
+735,Lucas Torres,2025-07-01,42,Rosario,Mercado Pago
+736,Pilar Fernández,2025-09-01,36,Santa Fe,Mercado Pago
+737,Joaquín Suárez,2025-11-01,34,Neuquén,Mercado Pago
+738,Mía Pérez,2025-07-01,41,Neuquén,Mercado Pago
+739,Sofía López,2025-06-01,48,San Miguel de Tucumán,Tarjeta de Crédito
+740,Mía Medina,2025-03-01,42,Santa Fe,Tarjeta de Crédito
+741,Isabella Sánchez,2024-08-01,16,Córdoba,Tarjeta de Crédito
+742,Benjamín Rodríguez,2025-10-01,19,San Miguel de Tucumán,Tarjeta de Crédito
+743,Isabella Suárez,2025-12-01,25,Salta,Tarjeta de Crédito
+744,Thiago Pérez,2024-09-01,32,La Plata,Transferencia Bancaria
+745,Antonella López,2024-09-01,37,La Plata,Mercado Pago
+746,Julieta Romero,2024-11-01,24,Córdoba,Tarjeta de Débito
+747,Martina Álvarez,2024-10-01,33,Mar del Plata,Tarjeta de Crédito
+748,Sofía Romero,2025-05-01,24,Salta,Tarjeta de Débito
+749,Gael Romero,2025-09-01,25,Neuquén,Tarjeta de Crédito
+750,Lucas Álvarez,2025-05-01,17,Santa Fe,Tarjeta de Crédito
+751,Renata Rodríguez,2024-10-01,22,Mar del Plata,Mercado Pago
+752,Renata Acosta,2024-08-01,18,Neuquén,Mercado Pago
+753,Isabella Fernández,2025-11-01,22,Mar del Plata,Mercado Pago
+754,Tomás Herrera,2025-08-01,42,Santa Fe,Mercado Pago
+755,Valentina Flores,2025-07-01,22,Rosario,Mercado Pago
+756,Thiago Gómez,2025-10-01,58,Rosario,Tarjeta de Crédito
+757,Victoria Ramírez,2025-08-01,36,Mendoza,Transferencia Bancaria
+758,Gael Suárez,2025-10-01,33,La Plata,Tarjeta de Crédito
+759,Lucas Ruiz,2025-02-01,23,Santa Fe,Tarjeta de Crédito
+760,Antonella Romero,2025-12-01,39,Santa Fe,Tarjeta de Débito
+761,Lucía Suárez,2024-10-01,26,Neuquén,Tarjeta de Débito
+762,Valentina Ramírez,2025-09-01,33,Rosario,Tarjeta de Crédito
+763,Guadalupe López,2025-03-01,57,Neuquén,Mercado Pago
+764,Antonella Medina,2025-04-01,31,San Miguel de Tucumán,Mercado Pago
+765,Bautista Acosta,2025-11-01,43,Neuquén,Tarjeta de Débito
+766,Martina Romero,2024-11-01,24,Mar del Plata,Tarjeta de Crédito
+767,Sofía Ruiz,2025-11-01,31,San Miguel de Tucumán,Tarjeta de Débito
+768,Pilar Acosta,2025-12-01,49,La Plata,Mercado Pago
+769,Joaquín Díaz,2024-08-01,25,La Plata,Tarjeta de Crédito
+770,Antonella López,2024-10-01,50,Mendoza,Tarjeta de Crédito
+771,Franco Torres,2025-10-01,39,La Plata,Tarjeta de Débito
+772,Thiago Flores,2024-11-01,26,Mendoza,Mercado Pago
+773,Pilar Acosta,2025-11-01,38,Santa Fe,Mercado Pago
+774,Tomás Pérez,2024-07-01,41,Córdoba,Tarjeta de Crédito
+775,Bautista Martínez,2025-12-01,38,Santa Fe,Mercado Pago
+776,Martina Gómez,2025-04-01,16,Mendoza,Mercado Pago
+777,Sofía Flores,2025-06-01,24,Buenos Aires,Mercado Pago
+778,Santiago Álvarez,2025-08-01,29,Salta,Tarjeta de Débito
+779,Victoria González,2024-10-01,31,Mendoza,Tarjeta de Crédito
+780,Martina Acosta,2025-01-01,38,Neuquén,Tarjeta de Débito
+781,Martina Romero,2024-12-01,33,Córdoba,Tarjeta de Crédito
+782,Sofía Pérez,2025-05-01,18,Neuquén,Mercado Pago
+783,Antonella Sánchez,2025-03-01,35,Mendoza,Tarjeta de Débito
+784,Nicolás Ramírez,2025-12-01,38,Santa Fe,Tarjeta de Crédito
+785,Julieta Martínez,2025-12-01,37,Rosario,Tarjeta de Débito
+786,Emma Romero,2025-02-01,42,Neuquén,Mercado Pago
+787,Ignacio Romero,2025-01-01,40,Mar del Plata,Mercado Pago
+788,Facundo Romero,2024-07-01,36,Mendoza,Tarjeta de Débito
+789,Gael Suárez,2025-12-01,31,Mar del Plata,Tarjeta de Débito
+790,Tomás Álvarez,2025-03-01,16,Santa Fe,Tarjeta de Débito
+791,Isabella López,2025-03-01,36,Salta,Tarjeta de Crédito
+792,Nicolás Torres,2025-03-01,34,La Plata,Tarjeta de Crédito
+793,Thiago Martínez,2025-11-01,34,Santa Fe,Mercado Pago
+794,Lucía Suárez,2025-08-01,19,Mar del Plata,Tarjeta de Débito
+795,Pilar González,2025-04-01,21,Salta,Transferencia Bancaria
+796,Guadalupe Ramírez,2025-11-01,42,Mar del Plata,Tarjeta de Crédito
+797,Agustín Herrera,2025-05-01,31,Mendoza,Tarjeta de Crédito
+798,Victoria Medina,2024-12-01,38,Salta,Mercado Pago
+799,Tomás Díaz,2025-06-01,32,Rosario,Mercado Pago
+800,Isabella López,2025-04-01,32,Salta,Tarjeta de Crédito
+801,Pilar Medina,2025-01-01,41,Rosario,Mercado Pago
+802,Nicolás Fernández,2025-02-01,26,Mendoza,Tarjeta de Crédito
+803,Mía Torres,2025-03-01,32,San Miguel de Tucumán,Tarjeta de Crédito
+804,Facundo López,2025-10-01,27,Salta,Tarjeta de Crédito
+805,Julieta Gómez,2024-12-01,27,Santa Fe,Tarjeta de Crédito
+806,Tomás Díaz,2025-07-01,28,Mar del Plata,Tarjeta de Crédito
+807,Benjamín Gómez,2024-09-01,34,San Miguel de Tucumán,Tarjeta de Crédito
+808,Benjamín Torres,2024-08-01,27,Rosario,Mercado Pago
+809,Joaquín Pérez,2025-12-01,44,San Miguel de Tucumán,Tarjeta de Débito
+810,Facundo Romero,2025-07-01,23,Mendoza,Mercado Pago
+811,Agustín Pérez,2025-10-01,30,Salta,Mercado Pago
+812,Benjamín Suárez,2024-11-01,27,Mar del Plata,Tarjeta de Débito
+813,Mía Acosta,2025-06-01,46,Mar del Plata,Tarjeta de Crédito
+814,Pilar Álvarez,2025-06-01,33,Buenos Aires,Mercado Pago
+815,Mateo González,2025-01-01,42,Mendoza,Tarjeta de Crédito
+816,Isabella Martínez,2025-02-01,17,Córdoba,Tarjeta de Crédito
+817,Martina Fernández,2025-03-01,34,Buenos Aires,Tarjeta de Crédito
+818,Facundo Benítez,2024-10-01,40,Neuquén,Tarjeta de Débito
+819,Dante Martínez,2024-08-01,32,San Miguel de Tucumán,Transferencia Bancaria
+820,Catalina Gómez,2024-11-01,42,Rosario,Mercado Pago
+821,Mateo Sánchez,2025-08-01,26,Mendoza,Tarjeta de Débito
+822,Thiago González,2025-08-01,46,Neuquén,Tarjeta de Débito
+823,Catalina Rodríguez,2025-04-01,54,Mar del Plata,Mercado Pago
+824,Franco Medina,2025-11-01,28,Neuquén,Tarjeta de Crédito
+825,Victoria López,2025-09-01,27,Buenos Aires,Tarjeta de Crédito
+826,Mía Flores,2025-04-01,46,Mar del Plata,Tarjeta de Crédito
+827,Julieta Martínez,2025-12-01,47,Mendoza,Tarjeta de Débito
+828,Isabella Ramírez,2025-03-01,26,Córdoba,Tarjeta de Débito
+829,Delfina Suárez,2025-09-01,27,Rosario,Tarjeta de Crédito
+830,Tomás Suárez,2025-09-01,29,Córdoba,Tarjeta de Crédito
+831,Julieta Gómez,2025-04-01,18,Neuquén,Tarjeta de Crédito
+832,Gael Benítez,2024-11-01,22,Mendoza,Tarjeta de Crédito
+833,Isabella Pérez,2025-06-01,21,Buenos Aires,Tarjeta de Débito
+834,Ignacio Acosta,2025-12-01,24,San Miguel de Tucumán,Tarjeta de Crédito
+835,Victoria Fernández,2024-08-01,31,Córdoba,Mercado Pago
+836,Benjamín Fernández,2025-09-01,34,Santa Fe,Tarjeta de Crédito
+837,Dante Romero,2025-03-01,47,Mendoza,Tarjeta de Débito
+838,Santiago Flores,2025-07-01,22,Buenos Aires,Tarjeta de Crédito
+839,Antonella Rodríguez,2025-02-01,41,La Plata,Tarjeta de Crédito
+840,Mía López,2025-11-01,29,Córdoba,Mercado Pago
+841,Mateo Martínez,2024-10-01,31,Rosario,Tarjeta de Crédito
+842,Delfina Romero,2025-01-01,38,Córdoba,Tarjeta de Crédito
+843,Martina López,2024-09-01,20,Mar del Plata,Tarjeta de Crédito
+844,Santiago Ruiz,2025-07-01,35,Salta,Mercado Pago
+845,Valentina Martínez,2025-07-01,33,Buenos Aires,Transferencia Bancaria
+846,Valentina Ramírez,2024-10-01,36,Neuquén,Tarjeta de Débito
+847,Martina Suárez,2025-12-01,34,Mar del Plata,Mercado Pago
+848,Antonella Martínez,2025-09-01,56,Salta,Mercado Pago
+849,Dante Ramírez,2025-04-01,25,Salta,Tarjeta de Crédito
+850,Nicolás Torres,2024-07-01,26,Buenos Aires,Tarjeta de Débito
+851,Franco Herrera,2025-01-01,25,Neuquén,Tarjeta de Crédito
+852,Tomás Benítez,2025-04-01,26,Neuquén,Tarjeta de Crédito
+853,Julieta Álvarez,2025-11-01,25,Mar del Plata,Tarjeta de Crédito
+854,Mateo Pérez,2024-08-01,43,Santa Fe,Mercado Pago
+855,Antonella Pérez,2025-02-01,46,Córdoba,Mercado Pago
+856,Emma Torres,2025-05-01,26,La Plata,Tarjeta de Crédito
+857,Renata Ruiz,2025-10-01,23,Mar del Plata,Mercado Pago
+858,Facundo Flores,2024-08-01,36,Neuquén,Tarjeta de Crédito
+859,Facundo Torres,2025-12-01,26,Córdoba,Transferencia Bancaria
+860,Valentina Ruiz,2025-12-01,38,Mar del Plata,Tarjeta de Crédito
+861,Gael Fernández,2025-02-01,34,Neuquén,Transferencia Bancaria
+862,Dante Benítez,2024-09-01,16,Santa Fe,Tarjeta de Crédito
+863,Joaquín Álvarez,2024-09-01,47,Buenos Aires,Mercado Pago
+864,Joaquín Medina,2024-12-01,49,Neuquén,Tarjeta de Débito
+865,Ignacio Flores,2025-05-01,25,Córdoba,Tarjeta de Crédito
+866,Mateo Torres,2025-03-01,28,San Miguel de Tucumán,Mercado Pago
+867,Renata Benítez,2025-11-01,34,San Miguel de Tucumán,Tarjeta de Débito
+868,Dante Pérez,2024-11-01,35,Salta,Tarjeta de Crédito
+869,Valentina Romero,2025-08-01,38,Neuquén,Tarjeta de Crédito
+870,Guadalupe Ruiz,2025-06-01,52,Mendoza,Tarjeta de Débito
+871,Ignacio Torres,2025-11-01,30,Córdoba,Mercado Pago
+872,Guadalupe Herrera,2024-09-01,24,Córdoba,Mercado Pago
+873,Facundo Herrera,2024-08-01,18,Santa Fe,Tarjeta de Crédito
+874,Mateo Benítez,2024-10-01,24,Buenos Aires,Tarjeta de Débito
+875,Gael Herrera,2025-07-01,31,Salta,Mercado Pago
+876,Ignacio Herrera,2025-08-01,49,Rosario,Tarjeta de Débito
+877,Valentina Ruiz,2025-02-01,26,Neuquén,Tarjeta de Débito
+878,Tomás Ruiz,2025-04-01,34,Mar del Plata,Transferencia Bancaria
+879,Santiago Ruiz,2024-09-01,31,San Miguel de Tucumán,Transferencia Bancaria
+880,Lucía Martínez,2024-07-01,43,Rosario,Tarjeta de Crédito
+881,Isabella Medina,2025-05-01,57,San Miguel de Tucumán,Tarjeta de Débito
+882,Thiago Gómez,2025-01-01,26,Neuquén,Tarjeta de Débito
+883,Guadalupe Martínez,2025-02-01,27,Rosario,Tarjeta de Débito
+884,Ignacio López,2024-10-01,42,San Miguel de Tucumán,Tarjeta de Débito
+885,Victoria Medina,2024-10-01,38,La Plata,Mercado Pago
+886,Lucía González,2024-12-01,50,Santa Fe,Tarjeta de Crédito
+887,Benjamín Rodríguez,2025-07-01,37,Buenos Aires,Tarjeta de Crédito
+888,Isabella Romero,2025-03-01,28,Rosario,Mercado Pago
+889,Thiago Medina,2024-09-01,37,Buenos Aires,Tarjeta de Crédito
+890,Valentina Suárez,2024-11-01,43,Santa Fe,Mercado Pago
+891,Emma Benítez,2025-11-01,40,La Plata,Tarjeta de Débito
+892,Guadalupe Ruiz,2025-02-01,37,Mar del Plata,Tarjeta de Crédito
+893,Renata Rodríguez,2025-06-01,42,Buenos Aires,Tarjeta de Débito
+894,Delfina Flores,2024-12-01,43,Mendoza,Mercado Pago
+895,Franco Herrera,2025-06-01,45,Santa Fe,Tarjeta de Débito
+896,Franco Gómez,2025-10-01,38,La Plata,Tarjeta de Crédito
+897,Martina Pérez,2025-11-01,30,Santa Fe,Tarjeta de Crédito
+898,Mía Romero,2025-07-01,33,Santa Fe,Tarjeta de Crédito
+899,Agustín Romero,2025-07-01,44,Buenos Aires,Tarjeta de Crédito
+900,Sofía Martínez,2025-02-01,23,San Miguel de Tucumán,Tarjeta de Débito
+901,Julieta Herrera,2025-02-01,35,Santa Fe,Tarjeta de Crédito
+902,Tomás Sánchez,2024-08-01,28,Rosario,Tarjeta de Débito
+903,Martina Ramírez,2025-09-01,32,Santa Fe,Tarjeta de Débito
+904,Catalina Sánchez,2025-01-01,44,Mendoza,Tarjeta de Débito
+905,Catalina Díaz,2024-09-01,33,Mendoza,Transferencia Bancaria
+906,Renata González,2024-10-01,32,Córdoba,Tarjeta de Débito
+907,Emma Suárez,2025-11-01,18,Neuquén,Tarjeta de Crédito
+908,Victoria Torres,2025-09-01,39,Mar del Plata,Mercado Pago
+909,Bautista Romero,2025-12-01,38,Santa Fe,Tarjeta de Débito
+910,Guadalupe Benítez,2024-07-01,53,San Miguel de Tucumán,Tarjeta de Débito
+911,Facundo Acosta,2025-06-01,28,Buenos Aires,Tarjeta de Crédito
+912,Joaquín Benítez,2025-07-01,34,Córdoba,Mercado Pago
+913,Franco Medina,2025-10-01,34,Santa Fe,Tarjeta de Crédito
+914,Thiago Gómez,2025-06-01,47,Mar del Plata,Mercado Pago
+915,Renata Ramírez,2025-07-01,31,Córdoba,Tarjeta de Débito
+916,Mateo Flores,2025-10-01,34,San Miguel de Tucumán,Tarjeta de Crédito
+917,Sofía Pérez,2025-05-01,38,La Plata,Tarjeta de Débito
+918,Guadalupe Romero,2024-11-01,33,Mar del Plata,Tarjeta de Crédito
+919,Mía Torres,2025-09-01,27,Buenos Aires,Tarjeta de Crédito
+920,Renata González,2025-11-01,33,Neuquén,Tarjeta de Crédito
+921,Ignacio Fernández,2025-09-01,42,San Miguel de Tucumán,Mercado Pago
+922,Isabella Díaz,2024-10-01,21,Neuquén,Tarjeta de Crédito
+923,Bautista Ruiz,2025-05-01,33,Buenos Aires,Tarjeta de Débito
+924,Benjamín Ruiz,2025-08-01,24,Santa Fe,Tarjeta de Crédito
+925,Isabella Álvarez,2025-08-01,43,Buenos Aires,Tarjeta de Débito
+926,Valentina Rodríguez,2024-11-01,16,Buenos Aires,Tarjeta de Débito
+927,Renata Medina,2025-01-01,26,Córdoba,Tarjeta de Crédito
+928,Thiago Ramírez,2025-06-01,35,Santa Fe,Tarjeta de Crédito
+929,Emma Suárez,2025-06-01,47,La Plata,Tarjeta de Crédito
+930,Victoria Herrera,2024-09-01,31,Buenos Aires,Mercado Pago
+931,Nicolás Medina,2025-10-01,26,Córdoba,Tarjeta de Crédito
+932,Santiago López,2024-08-01,50,Mendoza,Tarjeta de Débito
+933,Joaquín Álvarez,2025-05-01,17,Rosario,Tarjeta de Débito
+934,Valentina Díaz,2025-06-01,16,Neuquén,Tarjeta de Crédito
+935,Joaquín Acosta,2025-02-01,36,Salta,Tarjeta de Crédito
+936,Ignacio Herrera,2024-12-01,26,Rosario,Tarjeta de Débito
+937,Lucía Torres,2025-02-01,21,Mar del Plata,Tarjeta de Crédito
+938,Emma Sánchez,2024-12-01,39,Mar del Plata,Tarjeta de Crédito
+939,Benjamín Torres,2024-12-01,34,Salta,Tarjeta de Débito
+940,Franco Díaz,2025-07-01,26,Salta,Tarjeta de Débito
+941,Nicolás Suárez,2025-08-01,19,Córdoba,Mercado Pago
+942,Dante Medina,2025-10-01,40,Mendoza,Tarjeta de Crédito
+943,Pilar Fernández,2025-11-01,38,Buenos Aires,Mercado Pago
+944,Gael Herrera,2025-05-01,31,Neuquén,Tarjeta de Crédito
+945,Guadalupe Rodríguez,2024-09-01,50,Santa Fe,Tarjeta de Crédito
+946,Nicolás Martínez,2025-03-01,21,San Miguel de Tucumán,Tarjeta de Crédito
+947,Benjamín Flores,2024-11-01,16,Santa Fe,Tarjeta de Débito
+948,Catalina Benítez,2025-07-01,25,Buenos Aires,Tarjeta de Débito
+949,Franco Benítez,2025-07-01,31,Rosario,Tarjeta de Crédito
+950,Agustín Herrera,2024-08-01,34,Rosario,Tarjeta de Débito
+951,Catalina Rodríguez,2025-05-01,29,Mendoza,Mercado Pago
+952,Lucas Romero,2025-06-01,35,San Miguel de Tucumán,Tarjeta de Crédito
+953,Tomás Álvarez,2024-09-01,19,Mar del Plata,Tarjeta de Débito
+954,Dante Rodríguez,2025-02-01,46,Buenos Aires,Transferencia Bancaria
+955,Valentina Benítez,2025-04-01,31,La Plata,Mercado Pago
+956,Agustín Medina,2024-12-01,43,Neuquén,Tarjeta de Crédito
+957,Catalina Herrera,2024-12-01,35,Córdoba,Tarjeta de Débito
+958,Guadalupe Sánchez,2025-01-01,36,Santa Fe,Tarjeta de Crédito
+959,Julieta Acosta,2025-08-01,37,Neuquén,Tarjeta de Crédito
+960,Facundo Pérez,2025-03-01,36,Mendoza,Tarjeta de Crédito
+961,Thiago Martínez,2025-09-01,38,Rosario,Tarjeta de Crédito
+962,Victoria Sánchez,2025-09-01,45,Mar del Plata,Mercado Pago
+963,Julieta Acosta,2025-07-01,33,Salta,Tarjeta de Crédito
+964,Nicolás Ramírez,2025-08-01,39,Buenos Aires,Tarjeta de Crédito
+965,Agustín Herrera,2024-07-01,31,Rosario,Tarjeta de Crédito
+966,Sofía Herrera,2025-04-01,46,Rosario,Tarjeta de Crédito
+967,Guadalupe Pérez,2025-12-01,25,Santa Fe,Transferencia Bancaria
+968,Dante Díaz,2024-09-01,50,Córdoba,Tarjeta de Crédito
+969,Antonella Acosta,2024-11-01,31,Rosario,Tarjeta de Crédito
+970,Delfina Martínez,2025-06-01,17,Neuquén,Mercado Pago
+971,Delfina Benítez,2025-01-01,33,La Plata,Tarjeta de Crédito
+972,Guadalupe Flores,2025-05-01,25,Neuquén,Tarjeta de Débito
+973,Bautista Ruiz,2025-06-01,40,Rosario,Tarjeta de Crédito
+974,Tomás Benítez,2025-09-01,25,Mar del Plata,Mercado Pago
+975,Martina Acosta,2024-08-01,27,Neuquén,Tarjeta de Débito
+976,Franco López,2025-08-01,16,Córdoba,Tarjeta de Débito
+977,Dante Suárez,2024-10-01,27,Santa Fe,Mercado Pago
+978,Tomás Ramírez,2024-10-01,16,San Miguel de Tucumán,Mercado Pago
+979,Emma Acosta,2025-09-01,16,Mar del Plata,Tarjeta de Crédito
+980,Mía Martínez,2025-05-01,39,La Plata,Tarjeta de Débito
+981,Guadalupe Fernández,2024-11-01,39,La Plata,Tarjeta de Débito
+982,Santiago Gómez,2025-12-01,36,Buenos Aires,Tarjeta de Débito
+983,Agustín Benítez,2024-12-01,22,Córdoba,Tarjeta de Débito
+984,Nicolás Gómez,2025-09-01,31,San Miguel de Tucumán,Tarjeta de Crédito
+985,Benjamín Ramírez,2024-10-01,31,Neuquén,Tarjeta de Crédito
+986,Agustín Álvarez,2024-11-01,20,Neuquén,Tarjeta de Crédito
+987,Franco Gómez,2024-08-01,47,Mar del Plata,Tarjeta de Débito
+988,Martina Álvarez,2025-04-01,40,Santa Fe,Tarjeta de Débito
+989,Isabella Herrera,2024-11-01,29,San Miguel de Tucumán,Mercado Pago
+990,Pilar Martínez,2024-09-01,32,Córdoba,Tarjeta de Débito
+991,Lucía Pérez,2024-11-01,34,Córdoba,Tarjeta de Crédito
+992,Lucía Torres,2025-11-01,16,Santa Fe,Tarjeta de Débito
+993,Martina Ruiz,2025-08-01,29,Buenos Aires,Mercado Pago
+994,Julieta Suárez,2025-04-01,25,Mar del Plata,Tarjeta de Crédito
+995,Emma Álvarez,2024-12-01,21,Córdoba,Tarjeta de Débito
+996,Guadalupe Ruiz,2025-03-01,29,Neuquén,Tarjeta de Débito
+997,Ignacio Suárez,2025-07-01,49,Buenos Aires,Mercado Pago
+998,Nicolás Acosta,2024-07-01,38,Salta,Tarjeta de Crédito
+999,Isabella Gómez,2024-07-01,26,Buenos Aires,Mercado Pago
+1000,Tomás Sánchez,2025-11-01,37,Neuquén,Tarjeta de Crédito
+1001,Catalina Sánchez,2025-10-01,45,Buenos Aires,Transferencia Bancaria
+1002,Santiago Ruiz,2024-11-01,41,San Miguel de Tucumán,Tarjeta de Débito
+1003,Agustín Gómez,2025-10-01,32,Santa Fe,Tarjeta de Crédito
+1004,Guadalupe Fernández,2025-01-01,25,Santa Fe,Tarjeta de Crédito
+1005,Catalina Romero,2025-06-01,38,Mendoza,Tarjeta de Débito
+1006,Facundo Ruiz,2025-07-01,35,Neuquén,Tarjeta de Crédito
+1007,Mía Benítez,2024-08-01,40,Córdoba,Tarjeta de Débito
+1008,Isabella Torres,2025-04-01,38,Córdoba,Mercado Pago
+1009,Dante Medina,2024-10-01,42,Neuquén,Tarjeta de Crédito
+1010,Bautista Herrera,2025-01-01,26,Salta,Mercado Pago
+1011,Franco Flores,2025-12-01,45,Salta,Mercado Pago
+1012,Julieta López,2025-05-01,33,La Plata,Tarjeta de Crédito
+1013,Victoria Sánchez,2025-01-01,52,San Miguel de Tucumán,Tarjeta de Crédito
+1014,Tomás Medina,2025-04-01,25,Buenos Aires,Tarjeta de Débito
+1015,Emma Díaz,2025-01-01,49,Córdoba,Tarjeta de Crédito
+1016,Lucas Medina,2025-01-01,33,Rosario,Tarjeta de Débito
+1017,Thiago Herrera,2025-06-01,25,La Plata,Tarjeta de Crédito
+1018,Julieta Gómez,2025-04-01,27,Mendoza,Tarjeta de Débito
+1019,Thiago Sánchez,2025-01-01,28,Mendoza,Mercado Pago
+1020,Benjamín López,2024-08-01,36,Córdoba,Mercado Pago
+1021,Delfina González,2024-08-01,37,Santa Fe,Transferencia Bancaria
+1022,Catalina Suárez,2025-03-01,26,San Miguel de Tucumán,Tarjeta de Débito
+1023,Julieta Pérez,2025-05-01,31,Santa Fe,Tarjeta de Crédito
+1024,Franco Herrera,2024-10-01,53,Rosario,Tarjeta de Crédito
+1025,Julieta Medina,2024-11-01,49,Buenos Aires,Tarjeta de Débito
+1026,Antonella Pérez,2024-07-01,36,Salta,Transferencia Bancaria
+1027,Facundo Torres,2025-05-01,32,Buenos Aires,Tarjeta de Crédito
+1028,Bautista Herrera,2025-04-01,33,Córdoba,Tarjeta de Crédito
+1029,Martina Medina,2024-09-01,38,La Plata,Tarjeta de Crédito
+1030,Delfina Torres,2024-10-01,21,San Miguel de Tucumán,Tarjeta de Crédito
+1031,Thiago Ramírez,2024-11-01,29,San Miguel de Tucumán,Tarjeta de Crédito
+1032,Santiago Flores,2025-05-01,16,Rosario,Tarjeta de Débito
+1033,Gael López,2024-10-01,35,La Plata,Mercado Pago
+1034,Antonella Ruiz,2025-07-01,38,Mendoza,Tarjeta de Crédito
+1035,Julieta González,2025-08-01,27,Rosario,Tarjeta de Crédito
+1036,Dante Benítez,2024-08-01,47,Santa Fe,Tarjeta de Débito
+1037,Isabella Romero,2025-11-01,19,Santa Fe,Mercado Pago
+1038,Bautista López,2025-04-01,17,Rosario,Tarjeta de Crédito
+1039,Julieta López,2025-04-01,34,Salta,Tarjeta de Débito
+1040,Catalina Álvarez,2025-04-01,42,Santa Fe,Tarjeta de Débito
+1041,Catalina González,2025-06-01,48,Mar del Plata,Tarjeta de Crédito
+1042,Agustín Herrera,2025-03-01,27,Santa Fe,Tarjeta de Crédito
+1043,Catalina Torres,2024-09-01,42,Santa Fe,Tarjeta de Débito
+1044,Dante Fernández,2024-09-01,31,Mar del Plata,Tarjeta de Débito
+1045,Nicolás Martínez,2025-01-01,30,Rosario,Tarjeta de Débito
+1046,Mía Suárez,2025-10-01,40,Neuquén,Tarjeta de Crédito
+1047,Lucas Pérez,2025-02-01,38,San Miguel de Tucumán,Tarjeta de Crédito
+1048,Nicolás Díaz,2024-11-01,16,La Plata,Tarjeta de Débito
+1049,Santiago Flores,2024-07-01,46,San Miguel de Tucumán,Tarjeta de Débito
+1050,Facundo Ramírez,2025-12-01,45,Rosario,Tarjeta de Crédito
+1051,Benjamín Sánchez,2025-10-01,25,La Plata,Mercado Pago
+1052,Thiago Pérez,2025-10-01,35,Mar del Plata,Tarjeta de Crédito
+1053,Guadalupe Acosta,2024-11-01,36,Santa Fe,Tarjeta de Crédito
+1054,Tomás Fernández,2025-07-01,34,Córdoba,Tarjeta de Crédito
+1055,Lucas Ruiz,2025-03-01,26,La Plata,Tarjeta de Crédito
+1056,Facundo Martínez,2025-07-01,25,Rosario,Tarjeta de Débito
+1057,Mateo Rodríguez,2025-02-01,31,San Miguel de Tucumán,Mercado Pago
+1058,Antonella Acosta,2025-03-01,43,Salta,Transferencia Bancaria
+1059,Renata Flores,2025-07-01,37,Rosario,Transferencia Bancaria
+1060,Agustín Suárez,2024-10-01,28,Salta,Tarjeta de Débito
+1061,Tomás Medina,2024-08-01,39,La Plata,Mercado Pago
+1062,Renata Sánchez,2024-12-01,16,Córdoba,Tarjeta de Crédito
+1063,Mía Romero,2025-12-01,43,Rosario,Tarjeta de Crédito
+1064,Tomás Martínez,2025-12-01,16,San Miguel de Tucumán,Tarjeta de Crédito
+1065,Ignacio Acosta,2024-10-01,28,Salta,Tarjeta de Crédito
+1066,Lucía Díaz,2025-12-01,20,Neuquén,Tarjeta de Crédito
+1067,Renata Álvarez,2024-10-01,19,Mendoza,Tarjeta de Crédito
+1068,Bautista Sánchez,2024-11-01,43,Rosario,Tarjeta de Débito
+1069,Gael Ruiz,2024-10-01,27,Mendoza,Tarjeta de Crédito
+1070,Nicolás Sánchez,2025-03-01,35,Santa Fe,Mercado Pago
+1071,Isabella Medina,2025-10-01,31,La Plata,Tarjeta de Crédito
+1072,Martina Martínez,2024-09-01,36,La Plata,Tarjeta de Crédito
+1073,Delfina Flores,2024-08-01,32,La Plata,Tarjeta de Débito
+1074,Thiago Torres,2025-12-01,19,Buenos Aires,Tarjeta de Crédito
+1075,Martina López,2024-10-01,41,La Plata,Tarjeta de Crédito
+1076,Pilar González,2025-12-01,27,Mendoza,Tarjeta de Crédito
+1077,Julieta Gómez,2024-08-01,16,San Miguel de Tucumán,Tarjeta de Crédito
+1078,Catalina Flores,2025-08-01,27,Buenos Aires,Tarjeta de Crédito
+1079,Sofía Romero,2024-09-01,47,Mar del Plata,Tarjeta de Crédito
+1080,Martina Gómez,2025-12-01,40,La Plata,Mercado Pago
+1081,Valentina Sánchez,2024-10-01,28,Mar del Plata,Mercado Pago
+1082,Emma Rodríguez,2025-09-01,28,Mendoza,Tarjeta de Débito
+1083,Tomás Gómez,2025-02-01,28,Salta,Tarjeta de Crédito
+1084,Guadalupe Torres,2025-11-01,52,Rosario,Tarjeta de Débito
+1085,Pilar Medina,2024-08-01,35,Santa Fe,Tarjeta de Crédito
+1086,Nicolás Díaz,2025-11-01,36,Mendoza,Tarjeta de Crédito
+1087,Antonella Gómez,2024-10-01,42,Córdoba,Tarjeta de Crédito
+1088,Joaquín González,2025-08-01,34,Rosario,Mercado Pago
+1089,Bautista Sánchez,2024-09-01,29,Buenos Aires,Transferencia Bancaria
+1090,Ignacio Suárez,2025-10-01,30,Rosario,Tarjeta de Crédito
+1091,Emma Pérez,2025-01-01,31,Salta,Tarjeta de Crédito
+1092,Guadalupe Rodríguez,2025-07-01,31,Buenos Aires,Tarjeta de Crédito
+1093,Ignacio Medina,2025-05-01,39,Córdoba,Tarjeta de Crédito
+1094,Joaquín Medina,2024-10-01,32,San Miguel de Tucumán,Mercado Pago
+1095,Pilar Gómez,2024-12-01,39,Buenos Aires,Tarjeta de Débito
+1096,Pilar Martínez,2024-08-01,31,La Plata,Mercado Pago
+1097,Ignacio Flores,2024-08-01,32,Santa Fe,Tarjeta de Crédito
+1098,Thiago Herrera,2025-02-01,16,Rosario,Tarjeta de Débito
+1099,Pilar Flores,2025-07-01,41,La Plata,Mercado Pago
+1100,Lucas Benítez,2025-04-01,35,Rosario,Tarjeta de Crédito
+1101,Renata Álvarez,2024-07-01,41,Salta,Tarjeta de Crédito
+1102,Bautista Pérez,2024-12-01,16,Buenos Aires,Tarjeta de Débito
+1103,Franco Suárez,2025-10-01,52,Mendoza,Tarjeta de Crédito
+1104,Victoria Medina,2024-08-01,30,Mar del Plata,Tarjeta de Crédito
+1105,Franco Medina,2025-02-01,43,Rosario,Tarjeta de Débito
+1106,Mía Torres,2025-10-01,21,Córdoba,Tarjeta de Crédito
+1107,Sofía Martínez,2025-06-01,38,Rosario,Mercado Pago
+1108,Valentina Acosta,2024-11-01,21,Mendoza,Tarjeta de Crédito
+1109,Victoria Acosta,2025-04-01,25,Santa Fe,Tarjeta de Débito
+1110,Sofía Álvarez,2025-10-01,51,Mendoza,Tarjeta de Débito
+1111,Mateo Gómez,2025-10-01,30,Salta,Mercado Pago
+1112,Facundo Rodríguez,2024-11-01,34,San Miguel de Tucumán,Tarjeta de Débito
+1113,Gael Álvarez,2025-04-01,40,Buenos Aires,Mercado Pago
+1114,Tomás Rodríguez,2025-10-01,36,Córdoba,Mercado Pago
+1115,Thiago Benítez,2025-05-01,33,Córdoba,Tarjeta de Crédito
+1116,Renata Ruiz,2025-04-01,35,Mendoza,Tarjeta de Crédito
+1117,Agustín Pérez,2024-11-01,56,Santa Fe,Tarjeta de Débito
+1118,Pilar López,2024-09-01,31,Neuquén,Tarjeta de Crédito
+1119,Ignacio Ramírez,2025-06-01,34,Córdoba,Tarjeta de Crédito
+1120,Renata Ruiz,2025-07-01,42,Santa Fe,Tarjeta de Crédito
+1121,Renata Suárez,2025-02-01,43,Salta,Mercado Pago
+1122,Renata Torres,2024-10-01,43,San Miguel de Tucumán,Tarjeta de Crédito
+1123,Gael Torres,2025-05-01,38,Neuquén,Tarjeta de Crédito
+1124,Bautista Medina,2024-09-01,20,La Plata,Tarjeta de Crédito
+1125,Facundo Ruiz,2025-03-01,48,Buenos Aires,Tarjeta de Débito
+1126,Delfina González,2025-02-01,20,Santa Fe,Tarjeta de Crédito
+1127,Mateo Díaz,2025-02-01,35,Mendoza,Tarjeta de Crédito
+1128,Mateo Romero,2025-07-01,24,Santa Fe,Tarjeta de Débito
+1129,Valentina Rodríguez,2025-08-01,31,Salta,Tarjeta de Crédito
+1130,Santiago Álvarez,2025-04-01,35,Neuquén,Tarjeta de Crédito
+1131,Lucía Díaz,2025-05-01,35,Córdoba,Tarjeta de Débito
+1132,Pilar Fernández,2025-07-01,36,San Miguel de Tucumán,Mercado Pago
+1133,Julieta Herrera,2025-02-01,48,Córdoba,Tarjeta de Débito
+1134,Sofía Herrera,2025-11-01,36,Mar del Plata,Tarjeta de Crédito
+1135,Guadalupe Torres,2024-10-01,29,San Miguel de Tucumán,Mercado Pago
+1136,Mía López,2025-12-01,41,Mendoza,Tarjeta de Débito
+1137,Nicolás Ruiz,2025-11-01,43,Buenos Aires,Tarjeta de Crédito
+1138,Joaquín Medina,2024-08-01,19,Neuquén,Tarjeta de Crédito
+1139,Ignacio Sánchez,2024-11-01,37,Rosario,Tarjeta de Crédito
+1140,Facundo Suárez,2025-05-01,39,Neuquén,Tarjeta de Débito
+1141,Mía Díaz,2025-01-01,29,Mar del Plata,Tarjeta de Crédito
+1142,Lucas Acosta,2024-11-01,45,Neuquén,Tarjeta de Débito
+1143,Santiago Fernández,2025-08-01,30,Mar del Plata,Tarjeta de Débito
+1144,Franco Martínez,2024-08-01,33,Salta,Tarjeta de Débito
+1145,Bautista Herrera,2024-07-01,30,Mendoza,Tarjeta de Débito
+1146,Emma Sánchez,2024-10-01,32,Córdoba,Tarjeta de Crédito
+1147,Joaquín Herrera,2024-11-01,21,Córdoba,Tarjeta de Crédito
+1148,Mía Álvarez,2025-01-01,17,San Miguel de Tucumán,Tarjeta de Crédito
+1149,Delfina González,2025-01-01,47,La Plata,Tarjeta de Crédito
+1150,Delfina Flores,2025-11-01,23,Neuquén,Tarjeta de Crédito
+1151,Guadalupe Sánchez,2025-07-01,22,Mendoza,Tarjeta de Débito
+1152,Franco Fernández,2025-04-01,16,Córdoba,Tarjeta de Débito
+1153,Delfina Martínez,2025-09-01,25,La Plata,Tarjeta de Crédito
+1154,Isabella Flores,2025-05-01,18,Salta,Tarjeta de Crédito
+1155,Pilar Medina,2024-07-01,48,Mendoza,Tarjeta de Crédito
+1156,Franco Romero,2025-08-01,42,Santa Fe,Tarjeta de Débito
+1157,Ignacio González,2024-07-01,25,Mar del Plata,Tarjeta de Débito
+1158,Sofía Romero,2025-06-01,54,Rosario,Tarjeta de Crédito
+1159,Lucía Suárez,2025-12-01,41,La Plata,Tarjeta de Crédito
+1160,Lucas Ruiz,2024-12-01,28,La Plata,Tarjeta de Débito
+1161,Antonella López,2024-12-01,16,Buenos Aires,Tarjeta de Crédito
+1162,Emma Ruiz,2025-09-01,54,Santa Fe,Transferencia Bancaria
+1163,Dante Torres,2025-10-01,18,Salta,Mercado Pago
+1164,Martina Gómez,2025-12-01,16,Santa Fe,Transferencia Bancaria
+1165,Sofía Sánchez,2024-08-01,42,Santa Fe,Tarjeta de Crédito
+1166,Bautista Pérez,2025-01-01,56,Buenos Aires,Tarjeta de Crédito
+1167,Catalina Díaz,2024-08-01,45,Mendoza,Transferencia Bancaria
+1168,Santiago Rodríguez,2025-12-01,37,La Plata,Mercado Pago
+1169,Renata Romero,2024-11-01,37,Mendoza,Tarjeta de Crédito
+1170,Victoria Martínez,2024-07-01,40,Córdoba,Tarjeta de Débito
+1171,Victoria Suárez,2025-07-01,39,Mendoza,Tarjeta de Crédito
+1172,Mía Díaz,2025-08-01,34,Neuquén,Tarjeta de Crédito
+1173,Thiago Martínez,2025-06-01,33,Neuquén,Tarjeta de Débito
+1174,Antonella Martínez,2024-07-01,31,La Plata,Tarjeta de Débito
+1175,Guadalupe Martínez,2025-08-01,24,Mar del Plata,Transferencia Bancaria
+1176,Nicolás Herrera,2025-09-01,29,Rosario,Tarjeta de Crédito
+1177,Martina Torres,2025-02-01,16,Rosario,Tarjeta de Débito
+1178,Dante Ramírez,2025-03-01,31,Mar del Plata,Tarjeta de Crédito
+1179,Benjamín Gómez,2025-12-01,22,Córdoba,Tarjeta de Crédito
+1180,Franco Suárez,2025-05-01,20,Neuquén,Tarjeta de Crédito
+1181,Delfina Sánchez,2024-12-01,33,Mendoza,Tarjeta de Débito
+1182,Lucas Acosta,2024-09-01,45,Rosario,Tarjeta de Débito
+1183,Ignacio Álvarez,2024-08-01,41,Rosario,Mercado Pago
+1184,Julieta Martínez,2025-11-01,16,Rosario,Tarjeta de Crédito
+1185,Mía González,2025-05-01,22,La Plata,Transferencia Bancaria
+1186,Pilar Gómez,2024-10-01,41,Mendoza,Tarjeta de Crédito
+1187,Antonella Suárez,2024-09-01,22,Salta,Tarjeta de Débito
+1188,Dante Sánchez,2025-11-01,29,Mar del Plata,Tarjeta de Crédito
+1189,Delfina Ruiz,2024-07-01,37,San Miguel de Tucumán,Tarjeta de Crédito
+1190,Nicolás Rodríguez,2024-09-01,22,Santa Fe,Tarjeta de Crédito
+1191,Gael Rodríguez,2024-11-01,33,Mendoza,Tarjeta de Débito
+1192,Pilar Rodríguez,2025-11-01,18,Santa Fe,Tarjeta de Crédito
+1193,Thiago Díaz,2025-02-01,25,Salta,Tarjeta de Crédito
+1194,Franco Díaz,2025-03-01,35,Salta,Tarjeta de Crédito
+1195,Delfina Rodríguez,2024-09-01,16,Santa Fe,Mercado Pago
+1196,Gael Flores,2025-09-01,36,Córdoba,Tarjeta de Débito
+1197,Martina Herrera,2024-11-01,31,Santa Fe,Tarjeta de Crédito
+1198,Joaquín Flores,2025-06-01,37,Buenos Aires,Tarjeta de Crédito
+1199,Dante Flores,2025-07-01,34,Córdoba,Tarjeta de Crédito
+1200,Ignacio López,2024-09-01,45,Córdoba,Tarjeta de Crédito
